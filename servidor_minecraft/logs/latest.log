@@ -42,3 +42,8 @@
 [28Jan2025 20:11:15.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:57781] logged in with entity id 25 at (5.5, 79.0, 9.5)
 [28Jan2025 20:11:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
 [28Jan2025 20:15:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Stone Age]
+[28Jan2025 20:18:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Getting an Upgrade]
+[28Jan2025 20:22:25.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Sweet Dreams]
+[28Jan2025 20:25:09.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[28Jan2025 20:25:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[28Jan2025 20:26:09.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
