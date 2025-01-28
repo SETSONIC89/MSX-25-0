@@ -47,3 +47,17 @@
 [28Jan2025 20:25:09.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
 [28Jan2025 20:25:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
 [28Jan2025 20:26:09.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[28Jan2025 20:29:28.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:36471] logged in with entity id 3050 at (35.668939248138415, 59.0, -37.79413260615082)
+[28Jan2025 20:29:28.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[28Jan2025 20:31:07.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ELTERROR99 a server operator
+[28Jan2025 20:31:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 152.000000, 70.000000, -40.000000]
+[28Jan2025 20:32:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 206.000000, 71.000000, -151.000000]
+[28Jan2025 20:34:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 305.000000, 78.000000, 26.000000]
+[28Jan2025 20:34:58.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Timed out
+[28Jan2025 20:34:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[28Jan2025 20:34:58.930] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jan2025 20:35:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[28Jan2025 20:36:23.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:47509] logged in with entity id 4766 at (299.9546909581821, 79.0, 32.076920172113624)
+[28Jan2025 20:36:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[28Jan2025 20:38:08.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Timed out
+[28Jan2025 20:38:08.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game

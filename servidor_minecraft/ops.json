@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "803cf9a5-a404-3f83-abfc-5f2f7c71a023",
+    "name": "ELTERROR99",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
