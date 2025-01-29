@@ -45,3 +45,15 @@
 [29Jan2025 14:57:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Monster Hunter]
 [29Jan2025 14:57:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Getting an Upgrade]
 [29Jan2025 15:00:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Sweet Dreams]
+[29Jan2025 15:04:38.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:35265] logged in with entity id 2094 at (139.89393254945625, 36.0, -20.86904094481935)
+[29Jan2025 15:04:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[29Jan2025 15:08:55.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[29Jan2025 15:08:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[29Jan2025 15:10:25.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:40657] logged in with entity id 4570 at (165.37587580872238, 44.0, -54.582827357381156)
+[29Jan2025 15:10:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[29Jan2025 15:11:17.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jeanzzz a server operator
+[29Jan2025 15:11:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Gamerule playersSleepingPercentage is now set to: 1]
+[29Jan2025 15:12:05.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29Jan2025 15:12:05.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29Jan2025 15:12:54.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:53729] logged in with entity id 5080 at (220.1710293137127, 72.0, -66.67236870319319)
+[29Jan2025 15:12:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
