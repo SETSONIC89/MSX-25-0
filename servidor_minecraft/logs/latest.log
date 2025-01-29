@@ -1,80 +1,43 @@
-[29Jan2025 14:53:41.953] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[29Jan2025 14:53:41.958] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[29Jan2025 14:53:41.959] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Jan2025 14:53:42.061] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[29Jan2025 14:53:42.194] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[29Jan2025 14:53:42.523] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[29Jan2025 14:53:43.457] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[29Jan2025 14:53:43.855] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[29Jan2025 14:53:44.060] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[29Jan2025 14:53:50.975] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[29Jan2025 14:53:50.975] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[29Jan2025 14:53:51.012] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[29Jan2025 14:53:52.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jan2025 14:53:52.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.44
-[29Jan2025 14:53:52.950] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[29Jan2025 14:53:55.896] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[29Jan2025 14:53:55.933] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
-[29Jan2025 14:53:56.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[29Jan2025 14:53:56.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jan2025 14:53:56.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jan2025 14:53:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jan2025 14:53:56.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jan2025 14:53:56.362] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jan2025 14:53:56.417] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jan2025 14:53:56.417] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jan2025 14:53:56.417] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jan2025 14:53:56.418] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jan2025 14:53:56.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jan2025 14:53:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jan2025 14:54:00.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 14:54:00.827] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[29Jan2025 14:54:01.077] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3750 ms
-[29Jan2025 14:54:01.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.643s)! For help, type "help"
-[29Jan2025 14:54:01.099] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jan2025 14:55:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[29Jan2025 14:55:49.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:35795] logged in with entity id 28 at (-8.5, 79.0, -5.5)
-[29Jan2025 14:55:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Jan2025 14:57:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Stone Age]
-[29Jan2025 14:57:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Monster Hunter]
-[29Jan2025 14:57:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Getting an Upgrade]
-[29Jan2025 15:00:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Sweet Dreams]
-[29Jan2025 15:04:38.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:35265] logged in with entity id 2094 at (139.89393254945625, 36.0, -20.86904094481935)
-[29Jan2025 15:04:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[29Jan2025 15:08:55.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
-[29Jan2025 15:08:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
-[29Jan2025 15:10:25.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:40657] logged in with entity id 4570 at (165.37587580872238, 44.0, -54.582827357381156)
-[29Jan2025 15:10:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[29Jan2025 15:11:17.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jeanzzz a server operator
-[29Jan2025 15:11:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Gamerule playersSleepingPercentage is now set to: 1]
-[29Jan2025 15:12:05.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Jan2025 15:12:05.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Jan2025 15:12:54.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:53729] logged in with entity id 5080 at (220.1710293137127, 72.0, -66.67236870319319)
-[29Jan2025 15:12:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Jan2025 15:14:52.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Jan2025 15:14:52.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Jan2025 15:16:37.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:50893] logged in with entity id 5887 at (271.37332231736104, 90.02442408821369, 128.0829866598243)
-[29Jan2025 15:16:37.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Jan2025 15:16:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Created new objective [health]]
-[29Jan2025 15:16:51.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set display slot list to show objective health]
-[29Jan2025 15:17:16.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Jan2025 15:17:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Jan2025 15:17:32.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
-[29Jan2025 15:17:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
-[29Jan2025 15:18:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[29Jan2025 15:18:42.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:60271] logged in with entity id 6239 at (166.1047421081591, 43.0, -55.83885135452943)
-[29Jan2025 15:18:42.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[29Jan2025 15:18:48.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:38989] logged in with entity id 6465 at (271.9251161320065, 83.0, 136.07066864830807)
-[29Jan2025 15:18:48.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Jan2025 15:22:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Acquire Hardware]
-[29Jan2025 15:22:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Suit Up]
-[29Jan2025 15:22:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Isn't It Iron Pick]
-[29Jan2025 15:32:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
-[29Jan2025 15:34:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Not Today, Thank You]
-[29Jan2025 15:36:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
+[29Jan2025 15:53:20.389] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[29Jan2025 15:53:20.391] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[29Jan2025 15:53:20.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Jan2025 15:53:20.483] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[29Jan2025 15:53:20.594] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[29Jan2025 15:53:20.831] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Jan2025 15:53:21.843] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[29Jan2025 15:53:22.228] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[29Jan2025 15:53:22.372] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MSX-25-0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[29Jan2025 15:53:27.307] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[29Jan2025 15:53:27.308] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[29Jan2025 15:53:27.322] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[29Jan2025 15:53:27.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jan2025 15:53:28.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.44
+[29Jan2025 15:53:28.998] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[29Jan2025 15:53:30.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[29Jan2025 15:53:30.970] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[29Jan2025 15:53:31.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[29Jan2025 15:53:31.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jan2025 15:53:31.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jan2025 15:53:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jan2025 15:53:31.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jan2025 15:53:31.254] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jan2025 15:53:31.295] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jan2025 15:53:31.296] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jan2025 15:53:31.296] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jan2025 15:53:31.297] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jan2025 15:53:31.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jan2025 15:53:31.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jan2025 15:53:34.183] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.185] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.223] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 15:53:34.335] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2612 ms
+[29Jan2025 15:53:34.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.022s)! For help, type "help"
+[29Jan2025 15:53:34.350] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jan2025 15:53:47.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:57345] logged in with entity id 16 at (270.5331532790834, 1.166109260938214, -127.98049946301695)
+[29Jan2025 15:53:47.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[29Jan2025 15:54:26.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:43305] logged in with entity id 274 at (243.1549905711075, -1.0, -125.78326763427769)
+[29Jan2025 15:54:26.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29Jan2025 15:58:27.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 moved too quickly! -9.654157689934635,2.0,-2.7985695433880267
