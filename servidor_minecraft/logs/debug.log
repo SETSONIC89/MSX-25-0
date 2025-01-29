@@ -887,3 +887,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jan2025 15:22:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Isn't It Iron Pick]
 [29Jan2025 15:23:42.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jan2025 15:23:42.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 15:28:42.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 15:28:42.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 15:32:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
+[29Jan2025 15:33:42.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 15:33:42.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 15:34:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Not Today, Thank You]
+[29Jan2025 15:36:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
+[29Jan2025 15:38:42.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 15:38:42.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 15:43:42.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 15:43:42.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
