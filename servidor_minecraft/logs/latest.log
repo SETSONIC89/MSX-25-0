@@ -43,3 +43,6 @@
 [29Jan2025 15:58:27.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 moved too quickly! -9.654157689934635,2.0,-2.7985695433880267
 [29Jan2025 16:09:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Enderman
 [29Jan2025 16:19:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Ice Bucket Challenge]
+[29Jan2025 16:41:39.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 1406.000000, 79.000000, 23.000000]
+[29Jan2025 16:42:22.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 1559.000000, 64.000000, -41.000000]
+[29Jan2025 16:43:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to 1597.000000, 71.000000, -260.000000]

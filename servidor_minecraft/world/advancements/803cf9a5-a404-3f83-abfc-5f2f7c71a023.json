@@ -9,9 +9,12 @@
     "criteria": {
       "minecraft:flower_forest": "2025-01-29 16:17:09 +0000",
       "minecraft:forest": "2025-01-29 16:22:46 +0000",
+      "minecraft:taiga": "2025-01-29 16:42:23 +0000",
+      "minecraft:windswept_forest": "2025-01-29 16:43:11 +0000",
       "minecraft:cherry_grove": "2025-01-28 20:11:43 +0000",
       "minecraft:sunflower_plains": "2025-01-29 16:14:17 +0000",
       "minecraft:river": "2025-01-29 15:39:14 +0000",
+      "minecraft:swamp": "2025-01-29 16:43:20 +0000",
       "minecraft:plains": "2025-01-28 20:11:16 +0000"
     },
     "done": false
