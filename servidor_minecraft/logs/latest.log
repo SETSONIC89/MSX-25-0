@@ -66,3 +66,22 @@
 [30Jan2025 17:16:29.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cherry Boat (vehicle of jeanzzz) moved wrongly! 0.6124568457012174
 [30Jan2025 17:16:29.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cherry Boat (vehicle of jeanzzz) moved wrongly! 0.8196291428123459
 [30Jan2025 17:16:29.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cherry Boat (vehicle of jeanzzz) moved wrongly! 1.0350964879355615
+[30Jan2025 17:33:20.619] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Trying to set block entity net.minecraft.world.level.block.entity.BrushableBlockEntity@4390b3bb at position BlockPos{x=4308, y=42, z=1444}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[30Jan2025 17:34:33.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cherry Boat (vehicle of jeanzzz) moved wrongly! 0.4305601202813705
+[30Jan2025 17:57:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[30Jan2025 17:57:21.118] [Server thread/INFO] [journeymap/]: jeanzzz teleported to 4000.5 66.0 3579.5 minecraft:overworld
+[30Jan2025 18:02:07.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[30Jan2025 18:02:07.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[30Jan2025 18:02:08.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[30Jan2025 18:02:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[30Jan2025 18:02:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jan2025 18:02:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jan2025 18:02:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jan2025 18:02:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jan2025 18:02:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

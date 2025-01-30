@@ -895,3 +895,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jan2025 17:19:08.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 17:24:08.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 17:24:08.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:29:08.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:29:08.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:33:20.619] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Trying to set block entity net.minecraft.world.level.block.entity.BrushableBlockEntity@4390b3bb at position BlockPos{x=4308, y=42, z=1444}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[30Jan2025 17:34:08.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:34:08.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:34:33.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cherry Boat (vehicle of jeanzzz) moved wrongly! 0.4305601202813705
+[30Jan2025 17:39:08.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:39:08.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:44:08.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:44:08.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:49:08.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:49:08.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:54:08.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:54:08.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 17:57:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[30Jan2025 17:57:21.118] [Server thread/INFO] [journeymap/]: jeanzzz teleported to 4000.5 66.0 3579.5 minecraft:overworld
+[30Jan2025 17:59:08.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 17:59:08.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 18:02:07.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[30Jan2025 18:02:07.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[30Jan2025 18:02:08.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[30Jan2025 18:02:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[30Jan2025 18:02:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jan2025 18:02:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jan2025 18:02:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jan2025 18:02:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jan2025 18:02:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jan2025 18:02:20.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 18:02:20.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jan2025 18:02:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jan2025 18:02:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jan2025 18:02:20.903] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[30Jan2025 18:02:21.405] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file journeymap-server.toml changed, sending notifies
