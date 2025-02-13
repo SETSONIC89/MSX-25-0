@@ -315,9 +315,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-13 16:35:33 +0000",
       "minecraft:cave_spider": "2025-01-29 16:02:29 +0000",
       "minecraft:skeleton": "2025-01-29 15:50:46 +0000",
       "minecraft:spider": "2025-01-29 14:58:56 +0000",
+      "minecraft:wither_skeleton": "2025-02-13 16:35:30 +0000",
       "minecraft:zombie": "2025-01-29 14:57:32 +0000",
       "minecraft:creeper": "2025-01-29 15:48:08 +0000",
       "minecraft:drowned": "2025-02-13 15:57:03 +0000"
@@ -1967,6 +1969,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-02-13 16:35:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 16:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-02-13 15:42:45 +0000"
@@ -1979,15 +1993,33 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-13 16:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-13 16:10:31 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-13 16:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-02-13 16:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-13 16:35:52 +0000"
     },
     "done": true
   },
@@ -2000,6 +2032,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-13 16:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-13 16:35:50 +0000"
     },
     "done": true
   },
@@ -2045,9 +2083,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-13 16:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-02-13 16:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-13 16:35:09 +0000"
     },
     "done": true
   },
@@ -2057,9 +2107,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 16:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-13 16:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-13 16:35:50 +0000"
     },
     "done": true
   },
