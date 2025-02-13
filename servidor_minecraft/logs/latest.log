@@ -54,3 +54,5 @@
 [13Feb2025 15:18:20.500] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@3c527199 for service interface journeymap.api.services.CommonPlatformService
 [13Feb2025 15:18:46.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.253.19.110:42077] logged in with entity id 14 at (4003.4070280733695, 72.0, 4370.392095109591)
 [13Feb2025 15:18:46.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[13Feb2025 15:38:32.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.29.157.119:50103] logged in with entity id 2233 at (3997.4809750938125, 72.0, 4363.048167025355)
+[13Feb2025 15:38:32.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
