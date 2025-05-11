@@ -426,3 +426,10 @@
 [11May2025 08:44:31.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Suit Up]
 [11May2025 08:49:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was impaled on a stalagmite
 [11May2025 08:49:40.750] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-936, 22, -270) minecraft:overworld
+[11May2025 08:56:38.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Spider
+[11May2025 08:56:38.980] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-982, -35, -241) minecraft:overworld
+[11May2025 08:57:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Simple Dungeon Room]
+[11May2025 08:57:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
+[11May2025 08:58:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Labyrinth]
+[11May2025 09:03:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
+[11May2025 09:04:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
