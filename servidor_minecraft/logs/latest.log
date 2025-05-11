@@ -423,3 +423,6 @@
 [11May2025 08:34:14.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was shot by Skeleton
 [11May2025 08:34:14.730] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-846, 33, -290) minecraft:overworld
 [11May2025 08:34:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Not Today, Thank You]
+[11May2025 08:44:31.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Suit Up]
+[11May2025 08:49:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was impaled on a stalagmite
+[11May2025 08:49:40.750] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-936, 22, -270) minecraft:overworld
