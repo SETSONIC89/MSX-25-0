@@ -1969,3 +1969,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11May2025 08:59:45.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11May2025 09:03:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
 [11May2025 09:04:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[11May2025 09:04:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to ELTERROR99]
+[11May2025 09:04:45.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 09:04:45.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 09:05:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to ELTERROR99]
+[11May2025 09:05:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Labyrinth]
+[11May2025 09:06:17.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to ELTERROR99]
+[11May2025 09:07:09.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
+[11May2025 09:09:45.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 09:09:45.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 09:10:42.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
+[11May2025 09:10:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
