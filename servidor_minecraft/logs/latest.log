@@ -95,3 +95,4 @@
 [12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome lost connection: Disconnected
 [12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome left the game
 [12May2025 03:01:12.729] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12May2025 03:13:51.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94406, l='ServerLevel[world]', x=-2275.90, y=65.36, z=1997.85] died, message: 'Villager was slain by Zombie'
