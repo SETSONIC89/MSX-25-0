@@ -103,3 +103,6 @@
 [12May2025 04:07:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
 [12May2025 04:07:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
 [12May2025 04:16:35.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106340, l='ServerLevel[world]', x=-2278.50, y=68.00, z=2000.92] died, message: 'Villager was slain by jeanzzz'
+[12May2025 05:05:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [What a Deal!]
+[12May2025 05:10:22.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[12May2025 05:10:22.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
