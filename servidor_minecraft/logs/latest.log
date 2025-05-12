@@ -105,3 +105,8 @@
 [12May2025 16:50:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Take Aim]
 [12May2025 16:51:02.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
 [12May2025 17:01:13.840] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[12May2025 17:12:53.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2295, y=68, z=1948} BlockPos{x=-2296, y=67, z=1949}
+[12May2025 17:12:54.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
+[12May2025 17:12:55.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
+[12May2025 17:12:55.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
+[12May2025 17:12:55.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
