@@ -430,6 +430,7 @@
       "cooked_porkchop": "2025-05-11 08:50:43 +0000",
       "cooked_beef": "2025-05-11 08:19:53 +0000",
       "beef": "2025-05-11 08:32:52 +0000",
+      "apple": "2025-05-12 17:43:23 +0000",
       "mutton": "2025-05-11 08:41:15 +0000"
     },
     "done": false
@@ -1358,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-12 17:41:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-12 16:46:28 +0000"
@@ -1511,6 +1518,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-12 16:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 17:41:27 +0000"
     },
     "done": true
   },
