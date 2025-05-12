@@ -393,8 +393,11 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-12 00:06:02 +0000",
       "minecraft:badlands": "2025-05-12 00:09:20 +0000",
+      "minecraft:savanna_plateau": "2025-05-12 00:33:06 +0000",
+      "minecraft:sparse_jungle": "2025-05-12 00:40:24 +0000",
       "minecraft:river": "2025-05-11 08:17:19 +0000",
-      "minecraft:dripstone_caves": "2025-05-11 08:35:55 +0000"
+      "minecraft:dripstone_caves": "2025-05-11 08:35:55 +0000",
+      "minecraft:savanna": "2025-05-12 00:28:04 +0000"
     },
     "done": false
   },
@@ -403,6 +406,7 @@
       "cooked_porkchop": "2025-05-11 08:45:06 +0000",
       "cooked_mutton": "2025-05-11 08:34:32 +0000",
       "cooked_beef": "2025-05-11 08:19:06 +0000",
+      "golden_apple": "2025-05-12 00:45:03 +0000",
       "cooked_salmon": "2025-05-11 23:32:28 +0000"
     },
     "done": false
@@ -530,6 +534,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-11 08:34:50 +0000",
+      "minecraft:ghast": "2025-05-12 00:42:39 +0000",
       "minecraft:spider": "2025-05-11 08:39:24 +0000",
       "minecraft:creeper": "2025-05-11 08:45:14 +0000",
       "minecraft:husk": "2025-05-12 00:06:56 +0000",
@@ -1462,9 +1467,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-12 00:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-11 23:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-12 00:28:05 +0000"
     },
     "done": true
   },
@@ -1553,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-12 00:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-11 23:37:31 +0000"
@@ -1601,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-05-12 00:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-11 23:36:38 +0000"
@@ -1622,6 +1651,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-11 23:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-12 00:28:05 +0000"
     },
     "done": true
   },

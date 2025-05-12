@@ -333,8 +333,11 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-12 00:06:22 +0000",
       "minecraft:badlands": "2025-05-12 00:09:21 +0000",
+      "minecraft:savanna_plateau": "2025-05-12 00:32:58 +0000",
+      "minecraft:sparse_jungle": "2025-05-12 00:41:01 +0000",
       "minecraft:river": "2025-05-11 08:17:30 +0000",
-      "minecraft:dripstone_caves": "2025-05-11 08:33:23 +0000"
+      "minecraft:dripstone_caves": "2025-05-11 08:33:23 +0000",
+      "minecraft:savanna": "2025-05-12 00:17:20 +0000"
     },
     "done": false
   },
