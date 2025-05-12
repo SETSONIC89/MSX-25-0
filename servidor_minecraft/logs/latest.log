@@ -97,3 +97,4 @@
 [12May2025 16:10:19.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3840, l='ServerLevel[world]', x=-2304.48, y=68.00, z=2001.48] died, message: 'Villager was slain by jeanzzz'
 [12May2025 16:22:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported jeanzzz to ELTERROR99]
 [12May2025 16:22:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
+[12May2025 16:44:05.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [What a Deal!]
