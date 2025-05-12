@@ -2504,6 +2504,18 @@
     },
     "done": true
   },
+  "simple_hearts:eternal_power": {
+    "criteria": {
+      "eternal_power": "2025-05-12 16:46:20 +0000"
+    },
+    "done": true
+  },
+  "simple_hearts:simple_hearts": {
+    "criteria": {
+      "simple_hearts": "2025-05-12 16:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-12 16:39:31 +0000"
