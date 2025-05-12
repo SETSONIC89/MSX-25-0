@@ -331,6 +331,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-05-12 00:06:22 +0000",
+      "minecraft:badlands": "2025-05-12 00:09:21 +0000",
       "minecraft:river": "2025-05-11 08:17:30 +0000",
       "minecraft:dripstone_caves": "2025-05-11 08:33:23 +0000"
     },
@@ -988,6 +990,12 @@
   "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-11 09:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-11 23:41:08 +0000"
     },
     "done": true
   },
