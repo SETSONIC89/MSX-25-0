@@ -1876,3 +1876,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12May2025 02:45:20.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12May2025 02:50:20.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 02:50:20.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 02:54:27.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88135, l='ServerLevel[world]', x=-2276.33, y=65.05, z=1997.30] died, message: 'Villager was slain by Zombie'
+[12May2025 02:54:41.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90559, l='ServerLevel[world]', x=-2276.50, y=65.33, z=1997.26] died, message: 'Villager was slain by Zombie'
+[12May2025 02:54:48.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88138, l='ServerLevel[world]', x=-2277.85, y=65.16, z=1997.15] died, message: 'Villager was slain by Zombie'
+[12May2025 02:55:20.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 02:55:20.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:00:20.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 03:00:20.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 03:01:12.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome was kicked for floating too long!
+[12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome lost connection: Disconnected
+[12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome left the game
+[12May2025 03:01:12.729] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

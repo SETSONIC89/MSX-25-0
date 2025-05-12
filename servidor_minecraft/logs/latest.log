@@ -88,3 +88,10 @@
 [12May2025 02:15:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanpijacome: Teleported juanpijacome to jeanzzz]
 [12May2025 02:18:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome has made the advancement [Dungeon Now Loading]
 [12May2025 02:38:53.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanpijacome: Teleported juanpijacome to jeanzzz]
+[12May2025 02:54:27.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88135, l='ServerLevel[world]', x=-2276.33, y=65.05, z=1997.30] died, message: 'Villager was slain by Zombie'
+[12May2025 02:54:41.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90559, l='ServerLevel[world]', x=-2276.50, y=65.33, z=1997.26] died, message: 'Villager was slain by Zombie'
+[12May2025 02:54:48.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88138, l='ServerLevel[world]', x=-2277.85, y=65.16, z=1997.15] died, message: 'Villager was slain by Zombie'
+[12May2025 03:01:12.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome was kicked for floating too long!
+[12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome lost connection: Disconnected
+[12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome left the game
+[12May2025 03:01:12.729] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -776,6 +776,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-12 01:14:46 +0000",
+      "minecraft:spider": "2025-05-12 02:59:30 +0000",
+      "minecraft:creeper": "2025-05-12 02:52:02 +0000",
       "minecraft:zombie": "2025-05-12 01:32:11 +0000"
     },
     "done": false
@@ -1036,7 +1038,8 @@
     "criteria": {
       "cooked_mutton": "2025-05-12 01:16:20 +0000",
       "bread": "2025-05-12 00:45:29 +0000",
-      "cooked_chicken": "2025-05-12 01:08:56 +0000"
+      "cooked_chicken": "2025-05-12 01:08:56 +0000",
+      "carrot": "2025-05-12 02:57:18 +0000"
     },
     "done": false
   },
