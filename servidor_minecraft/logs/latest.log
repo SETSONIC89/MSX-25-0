@@ -85,3 +85,5 @@
 [12May2025 01:58:12.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=68, z=1995} BlockPos{x=-2271, y=67, z=1995}
 [12May2025 01:58:12.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2273, y=68, z=1994} BlockPos{x=-2272, y=67, z=1994}
 [12May2025 01:58:12.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2273, y=68, z=1993} BlockPos{x=-2273, y=67, z=1993}
+[12May2025 02:15:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanpijacome: Teleported juanpijacome to jeanzzz]
+[12May2025 02:18:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome has made the advancement [Dungeon Now Loading]
