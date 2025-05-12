@@ -332,11 +332,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-12 00:06:22 +0000",
+      "minecraft:bamboo_jungle": "2025-05-12 00:47:09 +0000",
       "minecraft:badlands": "2025-05-12 00:09:21 +0000",
       "minecraft:savanna_plateau": "2025-05-12 00:32:58 +0000",
       "minecraft:sparse_jungle": "2025-05-12 00:41:01 +0000",
       "minecraft:river": "2025-05-11 08:17:30 +0000",
       "minecraft:dripstone_caves": "2025-05-11 08:33:23 +0000",
+      "minecraft:jungle": "2025-05-12 00:46:41 +0000",
       "minecraft:savanna": "2025-05-12 00:17:20 +0000"
     },
     "done": false
@@ -993,6 +995,18 @@
   "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-11 09:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-12 00:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-12 00:57:32 +0000"
     },
     "done": true
   },

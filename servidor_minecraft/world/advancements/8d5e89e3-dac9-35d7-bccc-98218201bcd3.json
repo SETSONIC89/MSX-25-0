@@ -392,6 +392,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-12 00:06:02 +0000",
+      "minecraft:bamboo_jungle": "2025-05-12 00:46:43 +0000",
       "minecraft:badlands": "2025-05-12 00:09:20 +0000",
       "minecraft:savanna_plateau": "2025-05-12 00:33:06 +0000",
       "minecraft:sparse_jungle": "2025-05-12 00:40:24 +0000",
@@ -1497,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 00:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-11 23:53:40 +0000"
@@ -1533,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 00:58:58 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_sword": {
     "criteria": {
       "has_spawner_blade": "2025-05-11 23:32:58 +0000",
@@ -1561,6 +1574,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-11 23:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-12 00:45:28 +0000"
     },
     "done": true
   },
@@ -1621,6 +1640,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-11 23:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 00:58:58 +0000"
     },
     "done": true
   },
