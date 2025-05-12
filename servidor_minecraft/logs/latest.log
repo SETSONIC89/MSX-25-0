@@ -96,3 +96,9 @@
 [12May2025 03:01:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome left the game
 [12May2025 03:01:12.729] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12May2025 03:13:51.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94406, l='ServerLevel[world]', x=-2275.90, y=65.36, z=1997.85] died, message: 'Villager was slain by Zombie'
+[12May2025 04:06:27.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[12May2025 04:06:42.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1507, y=-32, z=-811} but found not block entity block Block{minecraft:water}[level=1] at location
+[12May2025 04:06:42.734] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1507, y=-32, z=-811}
+[12May2025 04:07:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Creative Mode]
+[12May2025 04:07:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[12May2025 04:07:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
