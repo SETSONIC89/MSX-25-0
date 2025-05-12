@@ -110,3 +110,5 @@
 [12May2025 17:12:55.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
 [12May2025 17:12:55.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
 [12May2025 17:12:55.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2292, y=68, z=1948} BlockPos{x=-2294, y=68, z=1948}
+[12May2025 17:51:29.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[12May2025 17:51:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
