@@ -89,3 +89,6 @@
 [12May2025 15:45:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
 [12May2025 15:46:52.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.75.159.215:51361] logged in with entity id 796 at (-1059.7931689216355, 103.0, -156.68368994990036)
 [12May2025 15:46:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[12May2025 16:03:39.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[12May2025 16:03:39.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[12May2025 16:03:39.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
