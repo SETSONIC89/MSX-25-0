@@ -90,3 +90,5 @@
 [13May2025 16:14:21.504] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [13May2025 16:15:53.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.6.17.101:35557] logged in with entity id 205 at (-2294.411569146774, 68.0, 1978.6388592609076)
 [13May2025 16:15:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[13May2025 16:40:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Zombie
+[13May2025 16:40:56.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1375, 110, -177) minecraft:overworld
