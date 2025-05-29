@@ -95,3 +95,10 @@
 [29May2025 13:36:07.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.143.5.231:54337] logged in with entity id 202 at (-1376.300000011921, 112.0, -183.3066988861016)
 [29May2025 13:36:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
 [29May2025 13:36:09.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29May2025 13:59:06.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanpijacome[/127.223.76.37:42509] logged in with entity id 7098 at (-2287.6034214213682, 69.89044745325997, 1944.5532604130103)
+[29May2025 13:59:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome joined the game
+[29May2025 13:59:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome was blown up by Creeper
+[29May2025 13:59:12.116] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2286, 68, 1946) minecraft:overworld
+[29May2025 14:00:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported juanpijacome to ELTERROR99]
+[29May2025 14:04:42.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:36473] logged in with entity id 10381 at (-2299.0679467265177, 68.0, 1995.0221320769892)
+[29May2025 14:04:42.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
