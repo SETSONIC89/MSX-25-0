@@ -2275,3 +2275,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29May2025 15:58:12.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2290, y=67, z=1892} BlockPos{x=-2293, y=66, z=1892}
 [29May2025 16:02:43.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 16:02:43.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 16:07:43.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 16:07:43.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 16:12:43.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 16:12:43.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 16:13:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29May2025 16:13:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
