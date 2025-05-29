@@ -331,3 +331,7 @@
 [29May2025 15:17:34.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4898d810[id=<null>,name=juanpijacome,properties={},legacy=false] (/127.223.76.37:45893) lost connection: Connection closed - mismatched mod channel list
 [29May2025 15:19:36.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanpijacome[/127.223.76.37:49861] logged in with entity id 2336 at (-2321.699999988079, 63.0, 1981.0225704800991)
 [29May2025 15:19:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome joined the game
+[29May2025 15:44:17.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=68, z=2002} BlockPos{x=-2308, y=66, z=2003}
+[29May2025 15:45:58.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2287, l='ServerLevel[world]', x=-2307.52, y=68.00, z=2005.30] died, message: 'Villager was slain by ELTERROR99'
+[29May2025 15:47:08.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/227, l='ServerLevel[world]', x=-2307.46, y=68.00, z=2005.30] died, message: 'Villager was slain by ELTERROR99'
+[29May2025 15:48:19.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/226, l='ServerLevel[world]', x=-2307.40, y=68.00, z=2005.35] died, message: 'Villager was slain by ELTERROR99'
