@@ -2245,3 +2245,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29May2025 15:19:36.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanpijacome[/127.223.76.37:49861] logged in with entity id 2336 at (-2321.699999988079, 63.0, 1981.0225704800991)
 [29May2025 15:19:36.862] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1130043b into net.minecraft.network.Connection@6a0499f1
 [29May2025 15:19:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome joined the game
+[29May2025 15:22:43.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 15:22:43.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 15:27:43.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 15:27:43.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 15:29:38.160] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29May2025 15:29:38.165] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
