@@ -1779,33 +1779,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 15:41:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-29 15:14:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_granite": "2025-05-29 16:19:57 +0000"
+      "has_leather": "2025-05-29 15:14:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
-      "has_granite": "2025-05-29 16:19:57 +0000"
+      "has_backpack": "2025-05-29 15:15:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
-      "has_cocoa_beans": "2025-05-29 17:09:42 +0000"
+      "has_backpack": "2025-05-29 15:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-29 15:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-29 15:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 15:41:55 +0000"
     },
     "done": true
   },
@@ -1821,15 +1833,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 15:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-29 15:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-29 15:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-29 16:19:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_smelts_to_glass": "2025-05-29 15:35:43 +0000"
+      "has_granite": "2025-05-29 16:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-29 16:19:57 +0000"
     },
     "done": true
   },
@@ -1845,57 +1881,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-05-29 15:14:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-29 16:19:57 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-05-29 15:15:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-29 15:57:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-29 15:35:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-29 16:19:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-05-29 15:44:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 15:41:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-05-29 17:09:42 +0000"
     },
     "done": true
   },
@@ -1917,9 +1911,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_backpack": "2025-05-29 15:15:14 +0000"
+      "has_cocoa_beans": "2025-05-29 17:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-29 17:09:42 +0000"
     },
     "done": true
   },
