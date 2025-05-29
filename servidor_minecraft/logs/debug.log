@@ -1587,3 +1587,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29May2025 14:04:42.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:36473] logged in with entity id 10381 at (-2299.0679467265177, 68.0, 1995.0221320769892)
 [29May2025 14:04:42.572] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@35d459d8 into net.minecraft.network.Connection@3cb17440
 [29May2025 14:04:42.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29May2025 14:05:23.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 14:05:23.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 14:10:23.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 14:10:23.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
