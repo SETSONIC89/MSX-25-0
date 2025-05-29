@@ -352,3 +352,19 @@
 [29May2025 16:58:52.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanpijacome lost connection: Disconnected
 [29May2025 16:58:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome left the game
 [29May2025 17:30:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Cover Me with Diamonds]
+[29May2025 17:37:09.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29May2025 17:37:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29May2025 17:37:11.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[29May2025 17:37:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[29May2025 17:40:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29May2025 17:40:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29May2025 17:40:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29May2025 17:40:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29May2025 17:40:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29May2025 17:40:18.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29May2025 17:40:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29May2025 17:40:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29May2025 17:40:18.903] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

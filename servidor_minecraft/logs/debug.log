@@ -2461,3 +2461,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29May2025 17:30:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Cover Me with Diamonds]
 [29May2025 17:32:43.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 17:32:43.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 17:37:09.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29May2025 17:37:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29May2025 17:37:11.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[29May2025 17:37:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[29May2025 17:37:43.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 17:37:43.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 17:40:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29May2025 17:40:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29May2025 17:40:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29May2025 17:40:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29May2025 17:40:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29May2025 17:40:18.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29May2025 17:40:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29May2025 17:40:18.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 17:40:18.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 17:40:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29May2025 17:40:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29May2025 17:40:18.902] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29May2025 17:40:18.903] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
