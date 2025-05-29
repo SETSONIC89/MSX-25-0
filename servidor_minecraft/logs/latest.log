@@ -103,3 +103,5 @@
 [29May2025 14:04:42.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:36473] logged in with entity id 10381 at (-2299.0679467265177, 68.0, 1995.0221320769892)
 [29May2025 14:04:42.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
 [29May2025 14:39:50.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanpijacome has made the advancement [What a Deal!]
+[29May2025 15:05:30.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29May2025 15:05:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
