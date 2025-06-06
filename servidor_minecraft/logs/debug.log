@@ -1611,3 +1611,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jun2025 18:27:20.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ManCst lost connection: Disconnected
 [06Jun2025 18:27:20.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ManCst left the game
 [06Jun2025 18:27:20.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jun2025 18:27:56.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:27:56.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:32:56.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:32:56.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:37:56.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:37:56.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
