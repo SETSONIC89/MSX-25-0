@@ -94,3 +94,19 @@
 [06Jun2025 14:46:03.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
 [06Jun2025 14:48:25.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:56385] logged in with entity id 1025 at (-2287.0732846637775, 74.0, 1966.4585131623228)
 [06Jun2025 14:48:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[06Jun2025 14:59:31.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[06Jun2025 14:59:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[06Jun2025 14:59:40.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[06Jun2025 14:59:40.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[06Jun2025 14:59:55.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jun2025 14:59:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 14:59:55.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 14:59:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 14:59:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jun2025 14:59:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jun2025 14:59:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jun2025 14:59:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jun2025 14:59:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 14:59:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 14:59:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 14:59:56.159] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
