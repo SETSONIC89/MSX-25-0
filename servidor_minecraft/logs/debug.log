@@ -1599,3 +1599,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jun2025 17:59:23.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ManCst has made the advancement [Diamonds!]
 [06Jun2025 18:02:56.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 18:02:56.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:07:56.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:07:56.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:12:56.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:12:56.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:17:56.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:17:56.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:22:56.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 18:22:56.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 18:24:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ManCst has made the advancement [Ice Bucket Challenge]
+[06Jun2025 18:27:20.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ManCst lost connection: Disconnected
+[06Jun2025 18:27:20.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ManCst left the game
+[06Jun2025 18:27:20.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
