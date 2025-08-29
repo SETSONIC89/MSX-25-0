@@ -311,8 +311,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-29 04:45:38 +0000",
+      "minecraft:hoglin": "2025-08-29 06:58:34 +0000",
       "minecraft:spider": "2025-08-29 06:36:08 +0000",
       "minecraft:creeper": "2025-08-29 06:37:14 +0000",
+      "minecraft:wither_skeleton": "2025-08-29 06:59:16 +0000",
       "minecraft:husk": "2025-08-29 06:37:36 +0000",
       "minecraft:zombie": "2025-08-29 06:10:15 +0000"
     },
@@ -1293,6 +1295,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-08-29 06:28:46 +0000"
@@ -1311,6 +1331,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-29 06:36:14 +0000"
@@ -1320,6 +1358,12 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-08-29 06:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-29 06:54:46 +0000"
     },
     "done": true
   },
@@ -1335,9 +1379,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-29 06:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-29 06:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-29 06:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-29 06:54:46 +0000"
     },
     "done": true
   },
@@ -1350,6 +1418,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-29 06:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-29 06:47:23 +0000"
     },
     "done": true
   },

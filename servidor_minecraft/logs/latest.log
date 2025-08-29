@@ -659,3 +659,53 @@
 [29Aug2025 06:45:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [The Imperial March]
 [29Aug2025 06:45:23.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Phantom
 [29Aug2025 06:45:23.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2038, 205, 1998) minecraft:overworld
+[29Aug2025 06:45:29.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Phantom
+[29Aug2025 06:45:29.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2052, 213, 2003) minecraft:overworld
+[29Aug2025 06:45:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Phantom
+[29Aug2025 06:45:35.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2063, 216, 1998) minecraft:overworld
+[29Aug2025 06:47:08.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ withered away
+[29Aug2025 06:47:08.910] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2050, 213, 2012) minecraft:overworld
+[29Aug2025 06:47:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
+[29Aug2025 06:48:18.304] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[29Aug2025 06:48:18.306] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[29Aug2025 06:50:21.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -2.0205971665934612,-10.596058325307382,0.16476814635780102
+[29Aug2025 06:50:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Slime
+[29Aug2025 06:50:25.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2062, 207, 2001) minecraft:overworld
+[29Aug2025 06:50:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> pilla el cofre
+[29Aug2025 06:52:26.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Cover Me with Diamonds]
+[29Aug2025 06:55:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
+[29Aug2025 06:55:48.774] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2043, 70, 2024) minecraft:overworld
+[29Aug2025 06:57:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz withered away
+[29Aug2025 06:57:08.523] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2043, 210, 2022) minecraft:overworld
+[29Aug2025 06:58:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
+[29Aug2025 06:58:56.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2039, 70, 2008) minecraft:overworld
+[29Aug2025 06:58:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Hoglin
+[29Aug2025 06:58:56.956] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2040, 70, 2009) minecraft:overworld
+[29Aug2025 06:59:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Wither Skeleton
+[29Aug2025 06:59:32.406] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2025, 70, 1993) minecraft:overworld
+[29Aug2025 07:00:36.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
+[29Aug2025 07:00:36.058] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2039, 212, 2022) minecraft:overworld
+[29Aug2025 07:00:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[29Aug2025 07:00:57.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2035, 213, 2010) minecraft:overworld
+[29Aug2025 07:01:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
+[29Aug2025 07:01:26.513] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2032, 213, 2011) minecraft:overworld
+[29Aug2025 07:01:58.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was doomed to fall by Wither Skeleton
+[29Aug2025 07:01:58.613] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2093, 223, 2008) minecraft:overworld
+[29Aug2025 07:02:27.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz was kicked for floating too long!
+[29Aug2025 07:02:27.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Flying is not enabled on this server
+[29Aug2025 07:02:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29Aug2025 07:02:29.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ withered away whilst fighting Wither Skeleton
+[29Aug2025 07:02:29.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2048, 211, 2003) minecraft:overworld
+[29Aug2025 07:02:34.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:54781] logged in with entity id 101525 at (2007.4605948810843, 69.1601712346607, 2025.850657012254)
+[29Aug2025 07:02:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29Aug2025 07:02:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[29Aug2025 07:02:35.461] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2007, 67, 2025) minecraft:overworld
+[29Aug2025 07:03:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Spooky Scary Skeleton]
+[29Aug2025 07:03:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Hoglin
+[29Aug2025 07:03:45.009] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2052, 221, 2010) minecraft:overworld
+[29Aug2025 07:04:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[29Aug2025 07:04:36.117] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2036, 219, 2010) minecraft:overworld
+[29Aug2025 07:04:51.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Isn't It Iron Pick]
+[29Aug2025 07:05:27.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Hoglin
+[29Aug2025 07:05:45.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
+[29Aug2025 07:05:45.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
