@@ -712,3 +712,28 @@
 [29Aug2025 07:10:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
 [29Aug2025 07:10:42.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2044, 220, 2016) minecraft:overworld
 [29Aug2025 07:11:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Ice Bucket Challenge]
+[29Aug2025 07:16:38.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
+[29Aug2025 07:17:49.094] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=626, y=-22, z=-74}
+[29Aug2025 07:18:35.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ moved too quickly! 0.369583825445261,-14.628691629069579,0.03095487649761708
+[29Aug2025 07:18:37.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ was kicked for floating too long!
+[29Aug2025 07:18:37.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ lost connection: Flying is not enabled on this server
+[29Aug2025 07:18:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ left the game
+[29Aug2025 07:18:49.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
+[29Aug2025 07:18:49.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2074, 68, 2007) minecraft:overworld
+[29Aug2025 07:18:55.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:37017] logged in with entity id 113727 at (2032.900279348359, 88.27924220426111, 2003.7900680511775)
+[29Aug2025 07:18:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
+[29Aug2025 07:19:35.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ lost connection: Disconnected
+[29Aug2025 07:19:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ left the game
+[29Aug2025 07:20:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
+[29Aug2025 07:20:06.475] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2017, 68, 2024) minecraft:overworld
+[29Aug2025 07:20:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Spooky Scary Skeleton]
+[29Aug2025 07:21:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Husk
+[29Aug2025 07:21:09.165] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2715, 71, 3095) minecraft:overworld
+[29Aug2025 07:23:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Husk
+[29Aug2025 07:23:25.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2745, 69, 3076) minecraft:overworld
+[29Aug2025 07:25:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> te piolo
+[29Aug2025 07:25:44.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Ol' Betsy]
+[29Aug2025 07:27:03.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2004, y=62, z=2158} BlockPos{x=2004, y=60, z=2158}
+[29Aug2025 07:27:03.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2004, y=61, z=2159} BlockPos{x=2004, y=60, z=2158}
+[29Aug2025 07:40:17.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
+[29Aug2025 07:40:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
