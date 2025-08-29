@@ -359,3 +359,96 @@
 [29Aug2025 04:41:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Getting an Upgrade]
 [29Aug2025 04:43:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
 [29Aug2025 04:43:52.443] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(40, 67, 79) minecraft:overworld
+[29Aug2025 04:45:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Monster Hunter]
+[29Aug2025 04:45:44.339] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-8, z=-108}
+[29Aug2025 04:45:44.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=663, y=-16, z=-109}
+[29Aug2025 04:45:46.980] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-7, z=-135}
+[29Aug2025 04:45:49.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-146}
+[29Aug2025 04:45:49.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-20, z=-145}
+[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
+[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
+[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-145}
+[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-145}
+[29Aug2025 04:45:49.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-145}
+[29Aug2025 04:45:49.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-139}
+[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=685, y=-20, z=-138}
+[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=686, y=-20, z=-144}
+[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-138}
+[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-28, z=-142}
+[29Aug2025 04:45:49.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-140}
+[29Aug2025 04:45:49.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-29, z=-139}
+[29Aug2025 04:45:49.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=689, y=-20, z=-146}
+[29Aug2025 04:45:49.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-21, z=-147}
+[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-20, z=-146}
+[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=691, y=-28, z=-145}
+[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-29, z=-147}
+[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-7, z=-145}
+[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
+[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-143}
+[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-144}
+[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-144}
+[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-139}
+[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
+[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-140}
+[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-141}
+[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-28, z=-143}
+[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-27, z=-144}
+[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-28, z=-139}
+[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-29, z=-137}
+[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=694, y=-7, z=-140}
+[29Aug2025 04:45:49.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-142}
+[29Aug2025 04:45:49.264] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-140}
+[29Aug2025 04:46:51.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Sweet Dreams]
+[29Aug2025 04:46:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Zzzzz
+[29Aug2025 04:46:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Z
+[29Aug2025 04:46:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> ZZZZZ
+[29Aug2025 04:47:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> ZZzzzzzzz
+[29Aug2025 04:47:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Zzzzzzz
+[29Aug2025 04:47:07.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Gamerule playersSleepingPercentage is now set to: 1]
+[29Aug2025 04:47:28.249] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,flib:main_channel,wakes:main,sophisticatedbackpacks:channel,minecraft:treechop-channel,simple_hearts:simple_hearts,ribbits:messages,ati_structuresv:ati_structuresv,sophisticatedcore:channel,geckolib:main,extra_dungeons:extra_dungeons,waystones:network] rejected vanilla connections
+[29Aug2025 04:47:28.250] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.217.87.206:56199] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[29Aug2025 04:47:31.288] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,flib:main_channel,wakes:main,sophisticatedbackpacks:channel,minecraft:treechop-channel,simple_hearts:simple_hearts,ribbits:messages,ati_structuresv:ati_structuresv,sophisticatedcore:channel,geckolib:main,extra_dungeons:extra_dungeons,waystones:network] rejected vanilla connections
+[29Aug2025 04:47:31.288] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.217.87.206:37529] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[29Aug2025 04:48:52.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.3949775770306587
+[29Aug2025 04:48:52.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.46011353425666357
+[29Aug2025 04:48:52.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.5527558561602746
+[29Aug2025 04:48:52.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6699956217584031
+[29Aug2025 04:50:31.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29Aug2025 04:50:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29Aug2025 04:50:44.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:47349] logged in with entity id 8972 at (127.61766919787858, 66.00133597911214, 471.84452988337193)
+[29Aug2025 04:50:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29Aug2025 04:51:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
+[29Aug2025 04:53:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[29Aug2025 04:53:55.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Acquire Hardware]
+[29Aug2025 04:54:27.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Isn't It Iron Pick]
+[29Aug2025 04:54:39.385] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Aug2025 04:54:39.386] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Aug2025 04:54:39.412] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Aug2025 04:54:39.414] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Aug2025 04:55:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
+[29Aug2025 04:55:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
+[29Aug2025 04:56:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Hot Stuff]
+[29Aug2025 04:56:52.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:34485] logged in with entity id 11952 at (-8.5, 89.0, -2.5)
+[29Aug2025 04:56:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
+[29Aug2025 04:57:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported DripX_ to esnxpi_]
+[29Aug2025 04:58:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Dungeon Now Loading]
+[29Aug2025 04:59:43.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
+[29Aug2025 04:59:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
+[29Aug2025 04:59:50.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported DripX_ to jeanzzz]
+[29Aug2025 05:00:34.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Stone Age]
+[29Aug2025 05:00:55.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:39743] logged in with entity id 14398 at (199.84568160247449, 62.07326432466507, 503.7749285088347)
+[29Aug2025 05:00:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
+[29Aug2025 05:01:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Getting an Upgrade]
+[29Aug2025 05:02:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Sweet Dreams]
+[29Aug2025 05:02:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Monster Hunter]
+[29Aug2025 05:02:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Husk
+[29Aug2025 05:02:57.068] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(195, 67, 568) minecraft:overworld
+[29Aug2025 05:03:13.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was blown up by Creeper
+[29Aug2025 05:03:13.779] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(170, 63, 563) minecraft:overworld
+[29Aug2025 05:03:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Monster Hunter]
+[29Aug2025 05:03:18.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
+[29Aug2025 05:03:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
+[29Aug2025 05:03:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Acquire Hardware]
+[29Aug2025 05:03:58.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Acquire Hardware]
+[29Aug2025 05:03:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Acquire Hardware]
+[29Aug2025 05:04:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Simple Dungeon Room]
