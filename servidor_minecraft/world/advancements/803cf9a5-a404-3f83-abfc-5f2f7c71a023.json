@@ -907,6 +907,7 @@
       "minecraft:piglin_brute": "2025-08-29 17:24:32 +0000",
       "minecraft:creeper": "2025-08-29 05:15:12 +0000",
       "minecraft:evoker": "2025-08-29 16:53:19 +0000",
+      "minecraft:witch": "2025-08-29 21:47:56 +0000",
       "minecraft:wither_skeleton": "2025-08-29 17:27:00 +0000",
       "minecraft:husk": "2025-08-29 05:06:50 +0000",
       "minecraft:piglin": "2025-08-29 17:24:16 +0000",
@@ -1455,39 +1456,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-29 16:51:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-29 16:12:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_gold_block": "2025-08-29 16:34:04 +0000"
+      "has_flint": "2025-08-29 16:12:58 +0000"
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_moss_block": "2025-08-29 16:51:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+      "has_flint": "2025-08-29 16:12:58 +0000"
     },
     "done": true
   },
@@ -1503,9 +1486,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_flint": "2025-08-29 16:12:58 +0000"
+      "has_gold_block": "2025-08-29 16:34:04 +0000"
     },
     "done": true
   },
@@ -1515,81 +1498,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-08-29 16:12:58 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-08-29 16:34:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-29 16:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-08-29 16:51:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-08-29 16:55:30 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-29 16:51:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-08-29 16:48:37 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-29 16:51:13 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2025-08-29 17:24:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-08-29 16:48:37 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_windmill": {
-    "criteria": {
-      "location0": "2025-08-29 16:45:07 +0000"
     },
     "done": true
   },
@@ -1599,9 +1510,57 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
-      "has_copper_backpack": "2025-08-29 17:13:41 +0000"
+      "has_material": "2025-08-29 16:34:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-08-29 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-29 16:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-29 16:48:37 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
     },
     "done": true
   },
@@ -1617,27 +1576,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
-    },
-    "done": true
-  },
   "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-29 16:51:13 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-08-29 16:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-08-29 16:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-29 16:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-29 17:13:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-08-29 17:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-29 21:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-29 21:48:00 +0000"
     },
     "done": true
   },
