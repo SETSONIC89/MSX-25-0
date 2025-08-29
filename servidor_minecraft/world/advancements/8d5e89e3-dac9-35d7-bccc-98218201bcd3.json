@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-29 17:04:04 +0000",
       "minecraft:old_growth_pine_taiga": "2025-08-29 04:45:30 +0000",
       "minecraft:taiga": "2025-08-29 16:25:16 +0000",
       "minecraft:eroded_badlands": "2025-08-29 06:34:18 +0000",
@@ -666,6 +667,7 @@
       "minecraft:wither_skeleton": "2025-08-29 06:44:53 +0000",
       "minecraft:husk": "2025-08-29 05:03:13 +0000",
       "minecraft:enderman": "2025-08-29 07:19:16 +0000",
+      "minecraft:vex": "2025-08-29 16:53:38 +0000",
       "minecraft:zombie": "2025-08-29 05:02:46 +0000",
       "minecraft:drowned": "2025-08-29 07:09:53 +0000",
       "minecraft:zombie_villager": "2025-08-29 05:22:18 +0000"
@@ -2775,6 +2777,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-29 16:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-08-29 16:55:17 +0000"
     },
     "done": true
   },

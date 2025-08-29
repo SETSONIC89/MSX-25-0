@@ -404,7 +404,8 @@
       "beef": "2025-08-29 05:29:02 +0000",
       "mutton": "2025-08-29 05:31:28 +0000",
       "golden_apple": "2025-08-29 05:26:39 +0000",
-      "golden_carrot": "2025-08-29 16:26:01 +0000"
+      "golden_carrot": "2025-08-29 16:26:01 +0000",
+      "enchanted_golden_apple": "2025-08-29 16:54:49 +0000"
     },
     "done": false
   },
@@ -900,6 +901,7 @@
       "minecraft:skeleton": "2025-08-29 05:54:22 +0000",
       "minecraft:hoglin": "2025-08-29 06:59:29 +0000",
       "minecraft:creeper": "2025-08-29 05:15:12 +0000",
+      "minecraft:evoker": "2025-08-29 16:53:19 +0000",
       "minecraft:husk": "2025-08-29 05:06:50 +0000",
       "minecraft:zombie": "2025-08-29 05:16:12 +0000",
       "minecraft:zombie_villager": "2025-08-29 16:43:19 +0000"
@@ -1446,6 +1448,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-29 16:12:58 +0000"
@@ -1455,6 +1469,18 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-29 16:34:04 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
     },
     "done": true
   },
@@ -1494,9 +1520,51 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-29 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-29 16:55:30 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-29 16:48:37 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
     },
     "done": true
   },
@@ -1518,9 +1586,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-29 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-29 16:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-29 16:54:08 +0000"
     },
     "done": true
   },
