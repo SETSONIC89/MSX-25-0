@@ -120,3 +120,5 @@
 [29Aug2025 16:11:38.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
 [29Aug2025 16:11:38.863] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
 [29Aug2025 16:12:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
+[29Aug2025 16:19:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [The Lighthouse]
+[29Aug2025 16:22:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [The Lighthouse]
