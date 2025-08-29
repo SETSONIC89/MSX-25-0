@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-08-29 06:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-29 04:57:58 +0000"
@@ -934,15 +940,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-08-29 06:34:21 +0000",
       "minecraft:sunflower_plains": "2025-08-29 05:29:23 +0000",
       "minecraft:birch_forest": "2025-08-29 04:45:21 +0000",
       "minecraft:beach": "2025-08-29 04:39:03 +0000",
       "minecraft:lukewarm_ocean": "2025-08-29 05:30:27 +0000",
       "minecraft:river": "2025-08-29 04:51:20 +0000",
       "minecraft:forest": "2025-08-29 04:51:27 +0000",
+      "minecraft:desert": "2025-08-29 06:34:27 +0000",
       "minecraft:ocean": "2025-08-29 04:56:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-29 04:36:21 +0000",
       "minecraft:windswept_savanna": "2025-08-29 05:30:40 +0000",
+      "minecraft:warm_ocean": "2025-08-29 06:35:09 +0000",
       "minecraft:savanna": "2025-08-29 05:29:22 +0000",
       "minecraft:plains": "2025-08-29 05:24:28 +0000"
     },
@@ -993,6 +1002,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-29 05:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-29 06:36:15 +0000"
     },
     "done": true
   },
@@ -1083,6 +1098,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-29 04:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-29 06:36:15 +0000"
     },
     "done": true
   },
