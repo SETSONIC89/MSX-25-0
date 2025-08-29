@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-29 04:45:30 +0000",
+      "minecraft:taiga": "2025-08-29 16:25:16 +0000",
       "minecraft:eroded_badlands": "2025-08-29 06:34:18 +0000",
       "minecraft:birch_forest": "2025-08-29 04:48:55 +0000",
       "minecraft:wooded_badlands": "2025-08-29 07:17:51 +0000",
@@ -2641,6 +2642,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-08-29 16:19:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-29 16:28:55 +0000"
     },
     "done": true
   },
