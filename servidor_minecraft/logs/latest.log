@@ -796,3 +796,15 @@
 [29Aug2025 08:58:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
 [29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
 [29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29Aug2025 09:31:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Aug2025 09:31:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Aug2025 09:31:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Aug2025 09:31:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Aug2025 09:31:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Aug2025 09:31:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Aug2025 09:31:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Aug2025 09:31:29.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Aug2025 09:31:29.790] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
