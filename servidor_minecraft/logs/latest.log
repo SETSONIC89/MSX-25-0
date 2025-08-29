@@ -709,3 +709,6 @@
 [29Aug2025 07:05:27.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Hoglin
 [29Aug2025 07:05:45.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
 [29Aug2025 07:05:45.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
+[29Aug2025 07:10:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[29Aug2025 07:10:42.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2044, 220, 2016) minecraft:overworld
+[29Aug2025 07:11:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Ice Bucket Challenge]
