@@ -791,3 +791,8 @@
 [29Aug2025 08:48:25.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
 [29Aug2025 08:48:25.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
 [29Aug2025 08:48:27.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[29Aug2025 08:58:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Kicked ELTERROR99: Kicked by an operator]
+[29Aug2025 08:58:05.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Kicked by an operator
+[29Aug2025 08:58:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
