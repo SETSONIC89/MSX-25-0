@@ -490,3 +490,27 @@
 [29Aug2025 05:32:26.277] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=755, y=-29, z=-257}
 [29Aug2025 05:38:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Isn't It Iron Pick]
 [29Aug2025 05:38:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Suit Up]
+[29Aug2025 05:47:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ fell from a high place
+[29Aug2025 05:47:08.378] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1674, 63, 622) minecraft:overworld
+[29Aug2025 05:48:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
+[29Aug2025 05:48:55.843] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1677, 63, 625) minecraft:overworld
+[29Aug2025 05:50:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Guns and Roses]
+[29Aug2025 05:50:41.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Guns and Roses]
+[29Aug2025 05:53:13.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Guns and Roses]
+[29Aug2025 05:54:13.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Guns and Roses]
+[29Aug2025 05:54:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Skeleton
+[29Aug2025 05:54:39.815] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1091, 138, 1015) minecraft:overworld
+[29Aug2025 05:57:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Not Today, Thank You]
+[29Aug2025 05:57:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was shot by Skeleton
+[29Aug2025 05:57:36.316] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1133, 144, 1086) minecraft:overworld
+[29Aug2025 05:58:04.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Not Today, Thank You]
+[29Aug2025 05:58:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Not Today, Thank You]
+[29Aug2025 05:58:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
+[29Aug2025 05:58:59.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1093, 138, 1078) minecraft:overworld
+[29Aug2025 06:00:13.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was shot by Skeleton
+[29Aug2025 06:00:13.326] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1102, 154, 1014) minecraft:overworld
+[29Aug2025 06:00:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[29Aug2025 06:00:57.082] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1674, 63, 636) minecraft:overworld
+[29Aug2025 06:04:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
+[29Aug2025 06:04:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
+[29Aug2025 06:04:46.663] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1092, 160, 1082) minecraft:overworld
