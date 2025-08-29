@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-29 16:25:20 +0000",
+      "minecraft:deep_ocean": "2025-08-29 17:16:13 +0000",
       "minecraft:eroded_badlands": "2025-08-29 06:34:21 +0000",
       "minecraft:sunflower_plains": "2025-08-29 05:29:23 +0000",
       "minecraft:birch_forest": "2025-08-29 04:45:21 +0000",
@@ -28,6 +29,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-08-29 04:36:21 +0000",
       "minecraft:windswept_savanna": "2025-08-29 05:30:40 +0000",
       "minecraft:warm_ocean": "2025-08-29 06:35:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-29 17:21:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-29 17:12:33 +0000",
       "minecraft:deep_dark": "2025-08-29 16:32:26 +0000",
       "minecraft:meadow": "2025-08-29 16:21:13 +0000",
@@ -901,9 +903,12 @@
       "minecraft:pillager": "2025-08-29 16:44:18 +0000",
       "minecraft:skeleton": "2025-08-29 05:54:22 +0000",
       "minecraft:hoglin": "2025-08-29 06:59:29 +0000",
+      "minecraft:vindicator": "2025-08-29 17:20:05 +0000",
+      "minecraft:piglin_brute": "2025-08-29 17:24:32 +0000",
       "minecraft:creeper": "2025-08-29 05:15:12 +0000",
       "minecraft:evoker": "2025-08-29 16:53:19 +0000",
       "minecraft:husk": "2025-08-29 05:06:50 +0000",
+      "minecraft:piglin": "2025-08-29 17:24:16 +0000",
       "minecraft:zombie": "2025-08-29 05:16:12 +0000",
       "minecraft:zombie_villager": "2025-08-29 16:43:19 +0000"
     },
@@ -1566,6 +1571,12 @@
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-29 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-08-29 17:24:07 +0000"
     },
     "done": true
   },
