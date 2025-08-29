@@ -179,3 +179,15 @@
 [29Aug2025 16:55:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [A Throwaway Joke]
 [29Aug2025 16:59:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Into Fire]
 [29Aug2025 17:03:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Creative Mode]
+[29Aug2025 17:09:07.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to 1700.500000, 100.000000, 600.500000]
+[29Aug2025 17:09:07.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[29Aug2025 17:09:09.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[29Aug2025 17:09:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[29Aug2025 17:09:31.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:45027] logged in with entity id 30268 at (1700.5, 100.0, 600.5)
+[29Aug2025 17:09:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29Aug2025 17:09:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported jeanzzz to ELTERROR99]
+[29Aug2025 17:09:59.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
+[29Aug2025 17:10:28.349] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3988, y=37, z=-1547} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Aug2025 17:10:28.349] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=3988, y=37, z=-1547}
+[29Aug2025 17:12:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
+[29Aug2025 17:12:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]

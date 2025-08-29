@@ -28,6 +28,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-08-29 04:36:21 +0000",
       "minecraft:windswept_savanna": "2025-08-29 05:30:40 +0000",
       "minecraft:warm_ocean": "2025-08-29 06:35:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-29 17:12:33 +0000",
       "minecraft:deep_dark": "2025-08-29 16:32:26 +0000",
       "minecraft:meadow": "2025-08-29 16:21:13 +0000",
       "minecraft:savanna": "2025-08-29 05:29:22 +0000",
@@ -1583,6 +1584,12 @@
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-29 16:34:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-29 17:13:41 +0000"
     },
     "done": true
   },
