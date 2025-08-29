@@ -1,810 +1,122 @@
-[29Aug2025 04:34:07.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Aug2025 04:34:07.814] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[29Aug2025 04:34:08.564] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Aug2025 04:34:08.624] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Aug2025 04:34:08.917] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Aug2025 04:34:08.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Aug2025 04:34:08.925] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Aug2025 04:34:08.927] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Aug2025 04:34:09.083] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[29Aug2025 04:34:10.852] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Aug2025 04:34:10.910] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Aug2025 04:34:10.979] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Aug2025 04:34:17.483] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
-[29Aug2025 04:34:18.353] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[29Aug2025 04:34:18.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Aug2025 04:34:18.557] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Aug2025 04:34:18.558] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Aug2025 04:34:18.767] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@281c8eda has been registered twice for the same name treechop:chop_wood.
-[29Aug2025 04:34:19.315] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Aug2025 04:34:19.391] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[29Aug2025 04:34:19.391] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[29Aug2025 04:34:19.392] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[29Aug2025 04:34:19.394] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[29Aug2025 04:34:19.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Aug2025 04:34:20.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Aug2025 04:34:20.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
-[29Aug2025 04:34:20.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
-[29Aug2025 04:34:20.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Aug2025 04:34:20.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Aug2025 04:34:20.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
-[29Aug2025 04:34:20.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
-[29Aug2025 04:34:21.237] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Aug2025 04:34:21.299] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
-[29Aug2025 04:34:21.299] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
-[29Aug2025 04:34:24.300] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.301] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.302] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.303] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Aug2025 04:34:24.358] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[29Aug2025 04:34:24.486] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1439 advancements
-[29Aug2025 04:34:24.513] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
-[29Aug2025 04:34:25.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Aug2025 04:34:25.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Aug2025 04:34:25.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Aug2025 04:34:25.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Aug2025 04:34:25.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Aug2025 04:34:25.390] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Aug2025 04:34:25.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Aug2025 04:34:25.493] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Aug2025 04:34:25.494] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Aug2025 04:34:25.494] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Aug2025 04:34:25.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[29Aug2025 04:34:25.514] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.514] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[29Aug2025 04:34:25.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[29Aug2025 04:34:25.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[29Aug2025 04:34:25.517] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/journeymap-server.toml is not correct. Correcting
-[29Aug2025 04:34:25.517] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.518] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
-[29Aug2025 04:34:25.518] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
-[29Aug2025 04:34:25.519] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Aug2025 04:34:25.520] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Aug2025 04:34:25.521] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/dungeonnowloading-server.toml is not correct. Correcting
-[29Aug2025 04:34:25.522] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Aug2025 04:34:25.522] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general-settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.522] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general-settings.toggle_helpful_tooltip was corrected from null to its default, true. 
-[29Aug2025 04:34:25.523] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general-settings.toggle_destructive_blocks was corrected from null to its default, false. 
-[29Aug2025 04:34:25.523] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiplayer-boss-scaling was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.523] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiplayer-boss-scaling.toggle_multiplayer_scaling was corrected from null to its default, true. 
-[29Aug2025 04:34:25.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiplayer-boss-scaling.multiplayer_boss_health_scale was corrected from null to its default, 0.5. 
-[29Aug2025 04:34:25.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiplayer-boss-scaling.multiplayer_boss_attack_scale was corrected from null to its default, 0.0. 
-[29Aug2025 04:34:25.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiplayer-boss-scaling.toggle_multiplayer_boss_loot was corrected from null to its default, true. 
-[29Aug2025 04:34:25.525] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key boss-scaling was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.527] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key boss-scaling.boss_health_scale was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.527] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key boss-scaling.boss_damage_scale was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.527] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key boss-scaling.toggle_boss_reset was corrected from null to its default, true. 
-[29Aug2025 04:34:25.528] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob-scaling-config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.529] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob-scaling-config.dungeon_mob_health_scale was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.529] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mob-scaling-config.dungeon_mob_attack_scale was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.530] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pvp-settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.530] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pvp-settings.toggle_pvp was corrected from null to its default, false. 
-[29Aug2025 04:34:25.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/sophisticatedbackpacks-server.toml is not correct. Correcting
-[29Aug2025 04:34:25.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.disallowedItems was corrected from null to its default, []. 
-[29Aug2025 04:34:25.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.containerItemsDisallowed was corrected from null to its default, false. 
-[29Aug2025 04:34:25.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.noInteractionBlocks was corrected from null to its default, []. 
-[29Aug2025 04:34:25.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.noConnectionBlocks was corrected from null to its default, []. 
-[29Aug2025 04:34:25.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack.inventorySlotCount was corrected from null to its default, 27. 
-[29Aug2025 04:34:25.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack.upgradeSlotCount was corrected from null to its default, 1. 
-[29Aug2025 04:34:25.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack.inventorySlotCount was corrected from null to its default, 45. 
-[29Aug2025 04:34:25.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack.upgradeSlotCount was corrected from null to its default, 1. 
-[29Aug2025 04:34:25.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack.inventorySlotCount was corrected from null to its default, 54. 
-[29Aug2025 04:34:25.538] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack.upgradeSlotCount was corrected from null to its default, 2. 
-[29Aug2025 04:34:25.538] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.538] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack.inventorySlotCount was corrected from null to its default, 81. 
-[29Aug2025 04:34:25.538] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack.upgradeSlotCount was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack.inventorySlotCount was corrected from null to its default, 108. 
-[29Aug2025 04:34:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack.upgradeSlotCount was corrected from null to its default, 5. 
-[29Aug2025 04:34:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack.inventorySlotCount was corrected from null to its default, 120. 
-[29Aug2025 04:34:25.540] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack.upgradeSlotCount was corrected from null to its default, 7. 
-[29Aug2025 04:34:25.540] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.540] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.542] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.542] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.542] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.543] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.543] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.543] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.543] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.544] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.544] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.544] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.544] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.545] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.545] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.545] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.547] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.547] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.547] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.547] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.magnetRange was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.magnetRange was corrected from null to its default, 5. 
-[29Aug2025 04:34:25.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade.filterSlots was corrected from null to its default, 6. 
-[29Aug2025 04:34:25.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade.filterSlots was corrected from null to its default, 12. 
-[29Aug2025 04:34:25.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.552] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.filterSlots was corrected from null to its default, 9. 
-[29Aug2025 04:34:25.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.slotsInRow was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
-[29Aug2025 04:34:25.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.filterSlots was corrected from null to its default, 16. 
-[29Aug2025 04:34:25.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
-[29Aug2025 04:34:25.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.stackUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.stackUpgrade.nonStackableItems was corrected from null to its default, [minecraft:bundle, minecraft:shulker_box, minecraft:white_shulker_box, minecraft:orange_shulker_box, minecraft:magenta_shulker_box, minecraft:light_blue_shulker_box, minecraft:yellow_shulker_box, minecraft:lime_shulker_box, minecraft:pink_shulker_box, minecraft:gray_shulker_box, minecraft:light_gray_shulker_box, minecraft:cyan_shulker_box, minecraft:purple_shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:green_shulker_box, minecraft:red_shulker_box, minecraft:black_shulker_box]. 
-[29Aug2025 04:34:25.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[29Aug2025 04:34:25.559] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.560] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[29Aug2025 04:34:25.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.561] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[29Aug2025 04:34:25.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade.upgradesUseInventoriesOfBackpacksInBackpack was corrected from null to its default, true. 
-[29Aug2025 04:34:25.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade.upgradesInContainedBackpacksAreFunctional was corrected from null to its default, true. 
-[29Aug2025 04:34:25.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade.filterSlots was corrected from null to its default, 8. 
-[29Aug2025 04:34:25.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.capacityPerSlotRow was corrected from null to its default, 4000. 
-[29Aug2025 04:34:25.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.autoFillDrainContainerCooldown was corrected from null to its default, 20. 
-[29Aug2025 04:34:25.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.maxInputOutput was corrected from null to its default, 20. 
-[29Aug2025 04:34:25.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.energyPerSlotRow was corrected from null to its default, 10000. 
-[29Aug2025 04:34:25.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.filterSlots was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.maxInputOutput was corrected from null to its default, 20. 
-[29Aug2025 04:34:25.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade.mendingOn was corrected from null to its default, true. 
-[29Aug2025 04:34:25.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade.maxXpPointsPerMending was corrected from null to its default, 5. 
-[29Aug2025 04:34:25.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedJukeboxUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedJukeboxUpgrade.numberOfSlots was corrected from null to its default, 12. 
-[29Aug2025 04:34:25.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedJukeboxUpgrade.slotsInRow was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.alchemyUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.alchemyUpgrade.filterSlots was corrected from null to its default, 4. 
-[29Aug2025 04:34:25.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedAlchemyUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedAlchemyUpgrade.filterSlots was corrected from null to its default, 8. 
-[29Aug2025 04:34:25.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.chance was corrected from null to its default, 0.01. 
-[29Aug2025 04:34:25.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.addLoot was corrected from null to its default, true. 
-[29Aug2025 04:34:25.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.buffWithPotionEffects was corrected from null to its default, true. 
-[29Aug2025 04:34:25.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.buffHealth was corrected from null to its default, true. 
-[29Aug2025 04:34:25.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.equipWithArmor was corrected from null to its default, true. 
-[29Aug2025 04:34:25.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.entityLootTableList was corrected from null to its default, [minecraft:creeper|minecraft:chests/desert_pyramid, minecraft:drowned|minecraft:chests/shipwreck_treasure, minecraft:enderman|minecraft:chests/end_city_treasure, minecraft:evoker|minecraft:chests/woodland_mansion, minecraft:husk|minecraft:chests/desert_pyramid, minecraft:piglin|minecraft:chests/bastion_bridge, minecraft:piglin_brute|minecraft:chests/bastion_treasure, minecraft:pillager|minecraft:chests/pillager_outpost, minecraft:skeleton|minecraft:chests/simple_dungeon, minecraft:stray|minecraft:chests/igloo_chest, minecraft:vex|minecraft:chests/woodland_mansion, minecraft:vindicator|minecraft:chests/woodland_mansion, minecraft:witch|minecraft:chests/buried_treasure, minecraft:wither_skeleton|minecraft:chests/nether_bridge, minecraft:zombie|minecraft:chests/simple_dungeon, minecraft:zombie_villager|minecraft:chests/village/village_armorer, minecraft:zombified_piglin|minecraft:chests/bastion_other]. 
-[29Aug2025 04:34:25.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.discBlockList was corrected from null to its default, [botania:record_gaia_1, botania:record_gaia_2]. 
-[29Aug2025 04:34:25.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.playJukebox was corrected from null to its default, true. 
-[29Aug2025 04:34:25.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.dropToFakePlayers was corrected from null to its default, false. 
-[29Aug2025 04:34:25.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.backpackDropChance was corrected from null to its default, 0.5. 
-[29Aug2025 04:34:25.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.lootingChanceIncreasePerLevel was corrected from null to its default, 0.15. 
-[29Aug2025 04:34:25.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.tooManyBackpacksSlowness was corrected from null to its default, false. 
-[29Aug2025 04:34:25.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.maxNumberOfBackpacks was corrected from null to its default, 3. 
-[29Aug2025 04:34:25.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.slownessLevelsPerAdditionalBackpack was corrected from null to its default, 1.0. 
-[29Aug2025 04:34:25.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.onlyWornBackpackTriggersUpgrades was corrected from null to its default, false. 
-[29Aug2025 04:34:25.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.maxUpgradesPerStorage was corrected from null to its default, [stack_upgrades|3, furnace_upgrades|1, jukebox_upgrades|1]. 
-[29Aug2025 04:34:25.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.itemFluidHandlerEnabled was corrected from null to its default, true. 
-[29Aug2025 04:34:25.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.allowOpeningOtherPlayerBackpacks was corrected from null to its default, true. 
-[29Aug2025 04:34:25.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.itemDisplayDisabled was corrected from null to its default, false. 
-[29Aug2025 04:34:25.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tickDedupeLogicDisabled was corrected from null to its default, false. 
-[29Aug2025 04:34:25.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.canBePlacedInContainerItems was corrected from null to its default, false. 
-[29Aug2025 04:34:25.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[29Aug2025 04:34:25.592] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[29Aug2025 04:34:25.592] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[29Aug2025 04:34:25.592] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[29Aug2025 04:34:25.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[29Aug2025 04:34:25.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[29Aug2025 04:34:25.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[29Aug2025 04:34:25.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[29Aug2025 04:34:25.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[29Aug2025 04:34:25.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Aug2025 04:34:33.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Aug2025 04:34:34.457] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Aug2025 04:34:34.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Aug2025 04:34:34.968] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Aug2025 04:34:35.451] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Aug2025 04:34:35.962] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Aug2025 04:34:36.436] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[29Aug2025 04:34:37.046] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[29Aug2025 04:34:37.486] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[29Aug2025 04:34:37.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[29Aug2025 04:34:38.444] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[29Aug2025 04:34:38.940] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[29Aug2025 04:34:39.441] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[29Aug2025 04:34:39.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[29Aug2025 04:34:40.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[29Aug2025 04:34:40.949] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[29Aug2025 04:34:41.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[29Aug2025 04:34:41.935] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[29Aug2025 04:34:42.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[29Aug2025 04:34:42.946] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[29Aug2025 04:34:43.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[29Aug2025 04:34:43.941] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[29Aug2025 04:34:44.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[29Aug2025 04:34:44.945] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[29Aug2025 04:34:45.440] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[29Aug2025 04:34:45.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[29Aug2025 04:34:46.444] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[29Aug2025 04:34:46.934] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[29Aug2025 04:34:47.453] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[29Aug2025 04:34:47.935] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[29Aug2025 04:34:48.439] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[29Aug2025 04:34:48.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[29Aug2025 04:34:49.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[29Aug2025 04:34:49.934] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[29Aug2025 04:34:50.295] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=578, y=-26, z=-305}
-[29Aug2025 04:34:50.299] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-14, z=-306}
-[29Aug2025 04:34:50.299] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=576, y=-28, z=-303}
-[29Aug2025 04:34:50.300] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=578, y=-28, z=-303}
-[29Aug2025 04:34:50.300] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=578, y=-27, z=-303}
-[29Aug2025 04:34:50.301] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=576, y=-14, z=-304}
-[29Aug2025 04:34:50.433] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[29Aug2025 04:34:50.764] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[29Aug2025 04:34:50.765] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[29Aug2025 04:34:50.938] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[29Aug2025 04:34:51.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[29Aug2025 04:34:51.936] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[29Aug2025 04:34:52.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[29Aug2025 04:34:52.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
-[29Aug2025 04:34:53.215] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[29Aug2025 04:34:53.216] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[29Aug2025 04:34:53.217] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[29Aug2025 04:34:53.443] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[29Aug2025 04:34:53.718] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[29Aug2025 04:34:53.967] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[29Aug2025 04:34:54.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[29Aug2025 04:34:54.934] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[29Aug2025 04:34:55.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[29Aug2025 04:34:55.960] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[29Aug2025 04:34:56.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[29Aug2025 04:34:56.934] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[29Aug2025 04:34:57.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[29Aug2025 04:34:57.964] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[29Aug2025 04:34:58.440] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[29Aug2025 04:34:58.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[29Aug2025 04:34:59.436] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[29Aug2025 04:34:59.937] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[29Aug2025 04:35:00.130] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26197 ms
-[29Aug2025 04:35:00.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.620s)! For help, type "help"
-[29Aug2025 04:35:00.168] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Aug2025 04:35:41.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:56365] logged in with entity id 695 at (7.5, 74.0, -2.5)
-[29Aug2025 04:35:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Aug2025 04:36:20.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.214.232.94:40159] logged in with entity id 1005 at (9.5, 66.0, -6.5)
-[29Aug2025 04:36:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[29Aug2025 04:36:38.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Dungeon Now Loading]
-[29Aug2025 04:36:51.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:58365] logged in with entity id 1162 at (-2.5, 69.0, 3.5)
-[29Aug2025 04:36:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 04:37:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Stone Age]
-[29Aug2025 04:38:36.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Created new objective [Health]]
-[29Aug2025 04:38:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set display slot list to show objective Health]
-[29Aug2025 04:38:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Dungeon Now Loading]
-[29Aug2025 04:39:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Getting an Upgrade]
-[29Aug2025 04:39:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Stone Age]
-[29Aug2025 04:39:56.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Getting an Upgrade]
-[29Aug2025 04:40:06.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Dungeon Now Loading]
-[29Aug2025 04:40:40.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Aug2025 04:40:40.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Aug2025 04:40:49.761] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19153e6d[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:47631) lost connection: Disconnected
-[29Aug2025 04:40:53.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:58879] logged in with entity id 2211 at (19.69999998807907, 57.0, 88.16682146011156)
-[29Aug2025 04:40:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Aug2025 04:41:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Stone Age]
-[29Aug2025 04:41:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Getting an Upgrade]
-[29Aug2025 04:43:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
-[29Aug2025 04:43:52.443] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(40, 67, 79) minecraft:overworld
-[29Aug2025 04:45:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Monster Hunter]
-[29Aug2025 04:45:44.339] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-8, z=-108}
-[29Aug2025 04:45:44.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=663, y=-16, z=-109}
-[29Aug2025 04:45:46.980] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-7, z=-135}
-[29Aug2025 04:45:49.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-146}
-[29Aug2025 04:45:49.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-20, z=-145}
-[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
-[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
-[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-145}
-[29Aug2025 04:45:49.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-145}
-[29Aug2025 04:45:49.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-145}
-[29Aug2025 04:45:49.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-139}
-[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=685, y=-20, z=-138}
-[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=686, y=-20, z=-144}
-[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-138}
-[29Aug2025 04:45:49.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-28, z=-142}
-[29Aug2025 04:45:49.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-140}
-[29Aug2025 04:45:49.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-29, z=-139}
-[29Aug2025 04:45:49.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=689, y=-20, z=-146}
-[29Aug2025 04:45:49.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-21, z=-147}
-[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-20, z=-146}
-[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=691, y=-28, z=-145}
-[29Aug2025 04:45:49.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-29, z=-147}
-[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-7, z=-145}
-[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
-[29Aug2025 04:45:49.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-143}
-[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-144}
-[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-144}
-[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-139}
-[29Aug2025 04:45:49.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
-[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-140}
-[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-141}
-[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-28, z=-143}
-[29Aug2025 04:45:49.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-27, z=-144}
-[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-28, z=-139}
-[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-29, z=-137}
-[29Aug2025 04:45:49.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=694, y=-7, z=-140}
-[29Aug2025 04:45:49.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-142}
-[29Aug2025 04:45:49.264] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-140}
-[29Aug2025 04:46:51.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Sweet Dreams]
-[29Aug2025 04:46:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Zzzzz
-[29Aug2025 04:46:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Z
-[29Aug2025 04:46:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> ZZZZZ
-[29Aug2025 04:47:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> ZZzzzzzzz
-[29Aug2025 04:47:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Zzzzzzz
-[29Aug2025 04:47:07.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Gamerule playersSleepingPercentage is now set to: 1]
-[29Aug2025 04:47:28.249] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,flib:main_channel,wakes:main,sophisticatedbackpacks:channel,minecraft:treechop-channel,simple_hearts:simple_hearts,ribbits:messages,ati_structuresv:ati_structuresv,sophisticatedcore:channel,geckolib:main,extra_dungeons:extra_dungeons,waystones:network] rejected vanilla connections
-[29Aug2025 04:47:28.250] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.217.87.206:56199] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[29Aug2025 04:47:31.288] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,flib:main_channel,wakes:main,sophisticatedbackpacks:channel,minecraft:treechop-channel,simple_hearts:simple_hearts,ribbits:messages,ati_structuresv:ati_structuresv,sophisticatedcore:channel,geckolib:main,extra_dungeons:extra_dungeons,waystones:network] rejected vanilla connections
-[29Aug2025 04:47:31.288] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.217.87.206:37529] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[29Aug2025 04:48:52.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.3949775770306587
-[29Aug2025 04:48:52.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.46011353425666357
-[29Aug2025 04:48:52.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.5527558561602746
-[29Aug2025 04:48:52.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6699956217584031
-[29Aug2025 04:50:31.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Aug2025 04:50:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Aug2025 04:50:44.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:47349] logged in with entity id 8972 at (127.61766919787858, 66.00133597911214, 471.84452988337193)
-[29Aug2025 04:50:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Aug2025 04:51:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
-[29Aug2025 04:53:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
-[29Aug2025 04:53:55.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Acquire Hardware]
-[29Aug2025 04:54:27.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Isn't It Iron Pick]
-[29Aug2025 04:54:39.385] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 04:54:39.386] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 04:54:39.412] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 04:54:39.414] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 04:55:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
-[29Aug2025 04:55:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
-[29Aug2025 04:56:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Hot Stuff]
-[29Aug2025 04:56:52.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:34485] logged in with entity id 11952 at (-8.5, 89.0, -2.5)
-[29Aug2025 04:56:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
-[29Aug2025 04:57:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported DripX_ to esnxpi_]
-[29Aug2025 04:58:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Dungeon Now Loading]
-[29Aug2025 04:59:43.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
-[29Aug2025 04:59:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 04:59:50.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported DripX_ to jeanzzz]
-[29Aug2025 05:00:34.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Stone Age]
-[29Aug2025 05:00:55.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:39743] logged in with entity id 14398 at (199.84568160247449, 62.07326432466507, 503.7749285088347)
-[29Aug2025 05:00:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 05:01:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Getting an Upgrade]
-[29Aug2025 05:02:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Sweet Dreams]
-[29Aug2025 05:02:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Monster Hunter]
-[29Aug2025 05:02:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Husk
-[29Aug2025 05:02:57.068] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(195, 67, 568) minecraft:overworld
-[29Aug2025 05:03:13.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was blown up by Creeper
-[29Aug2025 05:03:13.779] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(170, 63, 563) minecraft:overworld
-[29Aug2025 05:03:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Monster Hunter]
-[29Aug2025 05:03:18.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
-[29Aug2025 05:03:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 05:03:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Acquire Hardware]
-[29Aug2025 05:03:58.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Acquire Hardware]
-[29Aug2025 05:03:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Acquire Hardware]
-[29Aug2025 05:04:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Simple Dungeon Room]
-[29Aug2025 05:05:20.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Simple Dungeon Room]
-[29Aug2025 05:05:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Suit Up]
-[29Aug2025 05:06:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Monster Hunter]
-[29Aug2025 05:08:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Take Aim]
-[29Aug2025 05:08:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Diamonds!]
-[29Aug2025 05:09:05.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Sneak 100]
-[29Aug2025 05:09:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Cover Me with Diamonds]
-[29Aug2025 05:09:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Suit Up]
-[29Aug2025 05:11:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Sneak 100]
-[29Aug2025 05:11:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Suit Up]
-[29Aug2025 05:11:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Isn't It Iron Pick]
-[29Aug2025 05:13:24.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: The difficulty has been set to Hard]
-[29Aug2025 05:13:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Sneak 100]
-[29Aug2025 05:16:20.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:33735] logged in with entity id 18952 at (-1.5, 69.0, -1.5)
-[29Aug2025 05:16:20.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 05:17:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> esnxpi gómez
-[29Aug2025 05:17:08.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported esnxpi_ to ELTERROR99]
-[29Aug2025 05:17:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was blown up by ELTERROR99
-[29Aug2025 05:17:56.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(126, 63, 550) minecraft:overworld
-[29Aug2025 05:17:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was blown up by ELTERROR99
-[29Aug2025 05:17:56.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(125, 63, 548) minecraft:overworld
-[29Aug2025 05:20:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported esnxpi_ to ELTERROR99]
-[29Aug2025 05:20:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Cover Me with Diamonds]
-[29Aug2025 05:22:41.563] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
-[29Aug2025 05:23:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Take Aim]
-[29Aug2025 05:24:22.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=480, y=-22, z=906} but found not block entity block Block{minecraft:water}[level=8] at location
-[29Aug2025 05:24:22.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=480, y=-22, z=906}
-[29Aug2025 05:26:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Ice Bucket Challenge]
-[29Aug2025 05:28:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> la primera vez q fuimos al bosquecito a fumar
-[29Aug2025 05:28:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> KJAHSFJKSHAFKAJKFAJKH
-[29Aug2025 05:31:38.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1817, y=8, z=685} but found not block entity block Block{minecraft:water}[level=2] at location
-[29Aug2025 05:31:38.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=1817, y=8, z=685}
-[29Aug2025 05:31:52.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DripX_> 1700 70
-[29Aug2025 05:32:25.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=747, y=-20, z=-258}
-[29Aug2025 05:32:26.277] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=757, y=-29, z=-261}
-[29Aug2025 05:32:26.277] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=755, y=-29, z=-257}
-[29Aug2025 05:38:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Isn't It Iron Pick]
-[29Aug2025 05:38:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Suit Up]
-[29Aug2025 05:47:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ fell from a high place
-[29Aug2025 05:47:08.378] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1674, 63, 622) minecraft:overworld
-[29Aug2025 05:48:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[29Aug2025 05:48:55.843] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1677, 63, 625) minecraft:overworld
-[29Aug2025 05:50:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Guns and Roses]
-[29Aug2025 05:50:41.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Guns and Roses]
-[29Aug2025 05:53:13.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Guns and Roses]
-[29Aug2025 05:54:13.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Guns and Roses]
-[29Aug2025 05:54:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Skeleton
-[29Aug2025 05:54:39.815] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1091, 138, 1015) minecraft:overworld
-[29Aug2025 05:57:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Not Today, Thank You]
-[29Aug2025 05:57:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was shot by Skeleton
-[29Aug2025 05:57:36.316] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1133, 144, 1086) minecraft:overworld
-[29Aug2025 05:58:04.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Not Today, Thank You]
-[29Aug2025 05:58:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Not Today, Thank You]
-[29Aug2025 05:58:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
-[29Aug2025 05:58:59.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1093, 138, 1078) minecraft:overworld
-[29Aug2025 06:00:13.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was shot by Skeleton
-[29Aug2025 06:00:13.326] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1102, 154, 1014) minecraft:overworld
-[29Aug2025 06:00:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
-[29Aug2025 06:00:57.082] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1674, 63, 636) minecraft:overworld
-[29Aug2025 06:04:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
-[29Aug2025 06:04:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
-[29Aug2025 06:04:46.663] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1092, 160, 1082) minecraft:overworld
-[29Aug2025 06:06:28.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Take Aim]
-[29Aug2025 06:06:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Diamonds!]
-[29Aug2025 06:06:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was doomed to fall by Skeleton
-[29Aug2025 06:06:51.837] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1107, 65, 1005) minecraft:overworld
-[29Aug2025 06:07:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
-[29Aug2025 06:10:01.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Sweet Dreams]
-[29Aug2025 06:10:45.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was shot by jeanzzz
-[29Aug2025 06:10:45.619] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1101, 63, 1192) minecraft:overworld
-[29Aug2025 06:12:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Kicked esnxpi_: estupido]
-[29Aug2025 06:12:23.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: estupido
-[29Aug2025 06:12:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 06:12:34.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:45471] logged in with entity id 59057 at (1155.1985020970594, 63.0, 1007.0839210868876)
-[29Aug2025 06:12:34.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 06:12:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Kicked esnxpi_: estupido]
-[29Aug2025 06:12:40.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: estupido
-[29Aug2025 06:12:40.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 06:13:15.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:52259] logged in with entity id 59556 at (1154.065370952657, 62.07326432466507, 1005.2597249438088)
-[29Aug2025 06:13:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 06:15:12.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> q es un waystone
-[29Aug2025 06:15:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported ELTERROR99 to jeanzzz]
-[29Aug2025 06:16:35.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.418] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.418] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.461] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.461] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.476] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:35.477] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 06:16:38.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
-[29Aug2025 06:16:38.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 7.173117601566901,0.0,-7.530288540273432
-[29Aug2025 06:16:38.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 7.450845051100714,0.0,-7.818088760284809
-[29Aug2025 06:16:38.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 7.7310830921064735,0.0,-8.10324167288718
-[29Aug2025 06:16:38.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 8.014665313449996,0.0,-8.3846996245029
-[29Aug2025 06:16:38.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 8.30218358672505,0.0,-8.661614304606701
-[29Aug2025 06:16:38.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 8.594039540639415,0.0,-8.93331158110891
-[29Aug2025 06:16:38.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 8.890481448074752,0.0,-9.199274656202078
-[29Aug2025 06:16:38.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 9.19163552826717,0.0,-9.459126528025763
-[29Aug2025 06:16:38.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 9.497534234252726,0.0,-9.712608949781043
-[29Aug2025 06:16:38.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 9.808137975102,0.0,-9.959565161863566
-[29Aug2025 06:16:38.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 10.12335322796821,0.0,-10.19992314937781
-[29Aug2025 06:16:38.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 10.443044241922053,0.0,-10.433686517601245
-[29Aug2025 06:16:38.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 10.767046141852916,0.0,-10.660918779029998
-[29Aug2025 06:16:38.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 11.095174151529363,0.0,-10.881732067155554
-[29Aug2025 06:16:38.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 11.427229688982152,0.0,-11.09628008016739
-[29Aug2025 06:16:38.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 11.763006899154334,0.0,-11.304747915589815
-[29Aug2025 06:16:38.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 12.102298008020853,0.0,-11.507342637400598
-[29Aug2025 06:16:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 12.444896282376021,0.0,-11.704288122436083
-[29Aug2025 06:16:38.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 12.790597050789302,0.0,-11.89582387456835
-[29Aug2025 06:16:38.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.139201211542286,0.0,-12.08219669873688
-[29Aug2025 06:16:38.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.490516743193211,0.0,-12.263656677685049
-[29Aug2025 06:16:38.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.844359888997133,0.0,-12.440453469066824
-[29Aug2025 06:16:38.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 14.200554822173672,0.0,-12.612836537944986
-[29Aug2025 06:16:38.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 14.558934540467135,0.0,-12.781051713393481
-[29Aug2025 06:16:38.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 14.91934155204126,0.0,-12.945338043803986
-[29Aug2025 06:16:38.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 15.2816259558615,0.0,-13.105932203038492
-[29Aug2025 06:16:38.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 15.64564857554251,0.0,-13.263057900326203
-[29Aug2025 06:16:38.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.01127762563283,0.0,-13.41693451089236
-[29Aug2025 06:16:38.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.378390520618723,0.0,-13.567770275776411
-[29Aug2025 06:16:38.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.74687305923908,0.0,-13.715763449709584
-[29Aug2025 06:16:38.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 17.11661750572557,0.0,-13.861106982195452
-[29Aug2025 06:16:38.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 17.487525523256863,0.0,-14.003978115237487
-[29Aug2025 06:16:38.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 17.859504965362476,0.0,-14.14454727800944
-[29Aug2025 06:16:38.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.232469316491915,0.0,-14.28297879328511
-[29Aug2025 06:16:38.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.606339460954132,0.0,-14.419424176264101
-[29Aug2025 06:16:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.981042961557932,0.0,-14.554023425574542
-[29Aug2025 06:16:38.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 19.356511160312948,0.0,-14.686913509095575
-[29Aug2025 06:16:38.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 12.83591493287986,0.0,-7.57711033616647
-[29Aug2025 06:16:38.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.212730852153754,0.0,-7.7069468403472
-[29Aug2025 06:16:38.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.590138326205533,0.0,-7.835425756722998
-[29Aug2025 06:16:38.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 13.968088216848855,0.0,-7.962649814751558
-[29Aug2025 06:16:38.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 14.346535163503631,0.0,-8.088715134765607
-[29Aug2025 06:16:38.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 14.725437212886163,0.0,-8.213711888884973
-[29Aug2025 06:16:38.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 15.104549890683074,0.0,-8.338387870851875
-[29Aug2025 06:16:38.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 15.483434964864728,0.0,-8.46401044459435
-[29Aug2025 06:16:38.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 15.861446588145554,0.0,-8.59223271276528
-[29Aug2025 06:16:38.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.238001367118386,0.0,-8.724338731586386
-[29Aug2025 06:16:38.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.612584689719142,0.0,-8.861307605463026
-[29Aug2025 06:16:38.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 16.984756170351602,0.0,-9.003860219781473
-[29Aug2025 06:16:39.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 17.354149070596804,0.0,-9.152504171694318
-[29Aug2025 06:16:39.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 17.720466391563377,0.0,-9.307573356596322
-[29Aug2025 06:16:39.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.083476656647235,0.0,-9.469259483231554
-[29Aug2025 06:16:39.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.443005891537723,0.0,-9.63764284941476
-[29Aug2025 06:16:39.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 18.798935208121293,0.0,-9.812709831021493
-[29Aug2025 06:16:39.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 19.151193090488505,0.0,-9.994374414905224
-[29Aug2025 06:16:39.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 19.49974959227984,0.0,-10.182493890485375
-[29Aug2025 06:16:39.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 19.84461030963348,0.0,-10.376882525140672
-[29Aug2025 06:21:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was doomed to fall by esnxpi_
-[29Aug2025 06:21:28.274] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1718, 69, 589) minecraft:overworld
-[29Aug2025 06:21:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was doomed to fall by ELTERROR99
-[29Aug2025 06:22:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[29Aug2025 06:22:59.225] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1687, 110, 607) minecraft:overworld
-[29Aug2025 06:23:08.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[29Aug2025 06:23:47.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Kicked esnxpi_: estupido]
-[29Aug2025 06:23:47.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: estupido
-[29Aug2025 06:23:47.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 06:23:57.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:39335] logged in with entity id 74242 at (1710.4326218697202, 122.0, 609.2855507417847)
-[29Aug2025 06:23:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[29Aug2025 06:24:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DripX_> 2000 2000
-[29Aug2025 06:25:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Hot Stuff]
-[29Aug2025 06:25:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
-[29Aug2025 06:25:47.469] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1718, 70, 592) minecraft:overworld
-[29Aug2025 06:28:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [We Need to Go Deeper]
-[29Aug2025 06:28:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.3050383941540531,0.0,10.30959290009207
-[29Aug2025 06:28:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.5333464873770026,0.0,10.262808322061005
-[29Aug2025 06:28:10.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.3507150148341225,0.0,10.706035000634415
-[29Aug2025 06:28:10.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.5893550655928266,0.0,10.657749550940025
-[29Aug2025 06:28:10.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.3975376149319345,0.0,11.10242270396293
-[29Aug2025 06:28:10.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.6411009331411606,0.0,11.053174257626324
-[29Aug2025 06:28:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.4454181647831774,0.0,11.498757609026029
-[29Aug2025 06:28:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.688527341796771,0.0,11.449047341459845
-[29Aug2025 06:28:10.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.49427364022426445,0.0,11.895041687593675
-[29Aug2025 06:28:10.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.7316329453410617,0.0,11.845330882579333
-[29Aug2025 06:28:10.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.5440293171816393,0.0,12.291276699357695
-[29Aug2025 06:28:10.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.7704586671131892,0.0,12.241986048068725
-[29Aug2025 06:28:10.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.5946141479200833,0.0,12.687464771933037
-[29Aug2025 06:28:10.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.8050796832947071,0.0,12.63897439025709
-[29Aug2025 06:28:10.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.6459603938742475,0.0,13.08360837151622
-[29Aug2025 06:28:10.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.8355981874415193,0.0,13.036258761868226
-[29Aug2025 06:28:10.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.6980070898716804,0.0,13.479709710233237
-[29Aug2025 06:28:10.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.862838579482741,0.0,13.433814045202212
-[29Aug2025 06:28:10.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.7506993663268986,0.0,13.875770775272258
-[29Aug2025 06:28:10.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.8881985585248913,0.0,13.831604893837039
-[29Aug2025 06:28:10.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.8039840459405241,0.0,14.2717939101708
-[29Aug2025 06:28:10.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.91352512714775,0.0,14.229538282023555
-[29Aug2025 06:28:10.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.8578132686789104,0.0,14.667781220387269
-[29Aug2025 06:28:10.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.9403122305263878,0.0,14.627478503888824
-[29Aug2025 06:28:10.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.912143960046933,0.0,15.063734597109033
-[29Aug2025 06:28:10.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -1.9697468446256607,0.0,15.025268499553931
-[29Aug2025 06:28:10.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved too quickly! 0.9669335597236568,0.0,15.459656304923328
-[29Aug2025 06:28:10.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! -2.002762643733604,0.0,15.422743762452455
-[29Aug2025 06:28:10.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
-[29Aug2025 06:28:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [You Are A Pirate]
-[29Aug2025 06:28:53.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [You Are A Pirate]
-[29Aug2025 06:28:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [You Are A Pirate]
-[29Aug2025 06:29:18.770] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=626, y=-22, z=-74}
-[29Aug2025 06:32:48.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.2548399018555756
-[29Aug2025 06:32:48.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.3267642718542447
-[29Aug2025 06:42:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was shot by Wither Skeleton
-[29Aug2025 06:42:43.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2034, 185, 1998) minecraft:overworld
-[29Aug2025 06:44:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [The Imperial March]
-[29Aug2025 06:44:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [The Imperial March]
-[29Aug2025 06:44:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [The Imperial March]
-[29Aug2025 06:45:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [The Imperial March]
-[29Aug2025 06:45:23.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Phantom
-[29Aug2025 06:45:23.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2038, 205, 1998) minecraft:overworld
-[29Aug2025 06:45:29.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Phantom
-[29Aug2025 06:45:29.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2052, 213, 2003) minecraft:overworld
-[29Aug2025 06:45:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Phantom
-[29Aug2025 06:45:35.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2063, 216, 1998) minecraft:overworld
-[29Aug2025 06:47:08.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ withered away
-[29Aug2025 06:47:08.910] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2050, 213, 2012) minecraft:overworld
-[29Aug2025 06:47:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Diamonds!]
-[29Aug2025 06:48:18.304] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
-[29Aug2025 06:48:18.306] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
-[29Aug2025 06:50:21.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -2.0205971665934612,-10.596058325307382,0.16476814635780102
-[29Aug2025 06:50:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Slime
-[29Aug2025 06:50:25.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2062, 207, 2001) minecraft:overworld
-[29Aug2025 06:50:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> pilla el cofre
-[29Aug2025 06:52:26.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Cover Me with Diamonds]
-[29Aug2025 06:55:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[29Aug2025 06:55:48.774] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2043, 70, 2024) minecraft:overworld
-[29Aug2025 06:57:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz withered away
-[29Aug2025 06:57:08.523] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2043, 210, 2022) minecraft:overworld
-[29Aug2025 06:58:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
-[29Aug2025 06:58:56.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2039, 70, 2008) minecraft:overworld
-[29Aug2025 06:58:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Hoglin
-[29Aug2025 06:58:56.956] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2040, 70, 2009) minecraft:overworld
-[29Aug2025 06:59:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Wither Skeleton
-[29Aug2025 06:59:32.406] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2025, 70, 1993) minecraft:overworld
-[29Aug2025 07:00:36.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
-[29Aug2025 07:00:36.058] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2039, 212, 2022) minecraft:overworld
-[29Aug2025 07:00:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
-[29Aug2025 07:00:57.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2035, 213, 2010) minecraft:overworld
-[29Aug2025 07:01:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Wither Skeleton
-[29Aug2025 07:01:26.513] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2032, 213, 2011) minecraft:overworld
-[29Aug2025 07:01:58.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was doomed to fall by Wither Skeleton
-[29Aug2025 07:01:58.613] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2093, 223, 2008) minecraft:overworld
-[29Aug2025 07:02:27.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz was kicked for floating too long!
-[29Aug2025 07:02:27.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Flying is not enabled on this server
-[29Aug2025 07:02:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Aug2025 07:02:29.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ withered away whilst fighting Wither Skeleton
-[29Aug2025 07:02:29.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2048, 211, 2003) minecraft:overworld
-[29Aug2025 07:02:34.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:54781] logged in with entity id 101525 at (2007.4605948810843, 69.1601712346607, 2025.850657012254)
-[29Aug2025 07:02:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[29Aug2025 07:02:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
-[29Aug2025 07:02:35.461] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2007, 67, 2025) minecraft:overworld
-[29Aug2025 07:03:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Spooky Scary Skeleton]
-[29Aug2025 07:03:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was slain by Hoglin
-[29Aug2025 07:03:45.009] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2052, 221, 2010) minecraft:overworld
-[29Aug2025 07:04:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
-[29Aug2025 07:04:36.117] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2036, 219, 2010) minecraft:overworld
-[29Aug2025 07:04:51.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Isn't It Iron Pick]
-[29Aug2025 07:05:27.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Hoglin
-[29Aug2025 07:05:45.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
-[29Aug2025 07:05:45.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=64, z=2039} BlockPos{x=1982, y=63, z=2038}
-[29Aug2025 07:10:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
-[29Aug2025 07:10:42.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2044, 220, 2016) minecraft:overworld
-[29Aug2025 07:11:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Ice Bucket Challenge]
-[29Aug2025 07:16:38.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
-[29Aug2025 07:17:49.094] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=626, y=-22, z=-74}
-[29Aug2025 07:18:35.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ moved too quickly! 0.369583825445261,-14.628691629069579,0.03095487649761708
-[29Aug2025 07:18:37.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ was kicked for floating too long!
-[29Aug2025 07:18:37.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ lost connection: Flying is not enabled on this server
-[29Aug2025 07:18:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ left the game
-[29Aug2025 07:18:49.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[29Aug2025 07:18:49.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2074, 68, 2007) minecraft:overworld
-[29Aug2025 07:18:55.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:37017] logged in with entity id 113727 at (2032.900279348359, 88.27924220426111, 2003.7900680511775)
-[29Aug2025 07:18:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
-[29Aug2025 07:19:35.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ lost connection: Disconnected
-[29Aug2025 07:19:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ left the game
-[29Aug2025 07:20:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was shot by Skeleton
-[29Aug2025 07:20:06.475] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2017, 68, 2024) minecraft:overworld
-[29Aug2025 07:20:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Spooky Scary Skeleton]
-[29Aug2025 07:21:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Husk
-[29Aug2025 07:21:09.165] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2715, 71, 3095) minecraft:overworld
-[29Aug2025 07:23:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Husk
-[29Aug2025 07:23:25.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2745, 69, 3076) minecraft:overworld
-[29Aug2025 07:25:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> te piolo
-[29Aug2025 07:25:44.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Ol' Betsy]
-[29Aug2025 07:27:03.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2004, y=62, z=2158} BlockPos{x=2004, y=60, z=2158}
-[29Aug2025 07:27:03.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2004, y=61, z=2159} BlockPos{x=2004, y=60, z=2158}
-[29Aug2025 07:40:17.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
-[29Aug2025 07:40:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[29Aug2025 08:25:11.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3046, y=64, z=3120} BlockPos{x=3046, y=62, z=3121}
-[29Aug2025 08:29:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Vindicator
-[29Aug2025 08:29:08.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3032, 70, 2872) minecraft:overworld
-[29Aug2025 08:29:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Who's the Pillager Now?]
-[29Aug2025 08:31:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Vindicator
-[29Aug2025 08:31:05.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3029, 66, 2870) minecraft:overworld
-[29Aug2025 08:33:00.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.26941816420867326
-[29Aug2025 08:33:00.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.420769620684041
-[29Aug2025 08:33:00.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.4477114435258045
-[29Aug2025 08:33:01.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.41359426975031965
-[29Aug2025 08:33:01.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.40150724789873493
-[29Aug2025 08:33:01.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.5861487989200214
-[29Aug2025 08:33:02.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.2734970487622377
-[29Aug2025 08:36:50.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
-[29Aug2025 08:40:51.149] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 08:40:51.151] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[29Aug2025 08:42:56.484] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
-[29Aug2025 08:47:36.419] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=777, y=-28, z=-138}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-28, z=-138}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=780, y=-28, z=-139}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-19, z=-133}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=780, y=-19, z=-133}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=781, y=-19, z=-133}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=783, y=-19, z=-135}
-[29Aug2025 08:47:36.420] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=783, y=-19, z=-136}
-[29Aug2025 08:47:36.421] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=776, y=-20, z=-139}
-[29Aug2025 08:47:36.421] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=777, y=-13, z=-138}
-[29Aug2025 08:47:36.421] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=778, y=-13, z=-136}
-[29Aug2025 08:47:36.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=784, y=-28, z=-133}
-[29Aug2025 08:47:36.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=785, y=-28, z=-135}
-[29Aug2025 08:47:36.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=786, y=-20, z=-139}
-[29Aug2025 08:47:36.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=786, y=-20, z=-133}
-[29Aug2025 08:47:36.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=767, y=-13, z=-134}
-[29Aug2025 08:47:39.385] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-28, z=-129}
-[29Aug2025 08:47:39.385] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-28, z=-129}
-[29Aug2025 08:47:39.386] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-28, z=-127}
-[29Aug2025 08:47:39.386] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-127}
-[29Aug2025 08:47:39.387] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-128}
-[29Aug2025 08:47:39.387] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=772, y=-28, z=-121}
-[29Aug2025 08:47:39.387] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=770, y=-28, z=-121}
-[29Aug2025 08:47:39.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-119}
-[29Aug2025 08:47:39.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=775, y=-20, z=-128}
-[29Aug2025 08:47:39.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-20, z=-127}
-[29Aug2025 08:47:39.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-20, z=-124}
-[29Aug2025 08:47:39.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-20, z=-124}
-[29Aug2025 08:47:39.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-20, z=-122}
-[29Aug2025 08:47:39.390] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=770, y=-6, z=-119}
-[29Aug2025 08:47:39.391] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=772, y=-4, z=-126}
-[29Aug2025 08:47:39.758] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=776, y=-28, z=-130}
-[29Aug2025 08:47:39.759] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-13, z=-131}
-[29Aug2025 08:47:39.759] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=787, y=-18, z=-131}
-[29Aug2025 08:48:25.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[29Aug2025 08:48:25.455] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[29Aug2025 08:48:27.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[29Aug2025 08:58:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Kicked ELTERROR99: Kicked by an operator]
-[29Aug2025 08:58:05.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Kicked by an operator
-[29Aug2025 08:58:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
-[29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[29Aug2025 08:58:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[29Aug2025 09:31:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[29Aug2025 09:31:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Aug2025 09:31:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Aug2025 09:31:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Aug2025 09:31:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Aug2025 09:31:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Aug2025 09:31:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Aug2025 09:31:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Aug2025 09:31:29.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[29Aug2025 09:31:29.790] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Aug2025 16:04:19.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Aug2025 16:04:19.726] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[29Aug2025 16:04:21.634] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Aug2025 16:04:21.746] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Aug2025 16:04:22.295] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Aug2025 16:04:22.296] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Aug2025 16:04:22.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Aug2025 16:04:22.299] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Aug2025 16:04:22.653] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[29Aug2025 16:04:24.663] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Aug2025 16:04:24.731] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Aug2025 16:04:24.826] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Aug2025 16:04:32.023] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[29Aug2025 16:04:32.758] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[29Aug2025 16:04:32.852] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Aug2025 16:04:32.914] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Aug2025 16:04:32.914] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Aug2025 16:04:33.079] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@4b5fc36d has been registered twice for the same name treechop:chop_wood.
+[29Aug2025 16:04:33.607] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Aug2025 16:04:33.662] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[29Aug2025 16:04:33.662] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[29Aug2025 16:04:33.662] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[29Aug2025 16:04:33.664] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[29Aug2025 16:04:34.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Aug2025 16:04:34.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[29Aug2025 16:04:34.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
+[29Aug2025 16:04:34.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
+[29Aug2025 16:04:34.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Aug2025 16:04:34.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29Aug2025 16:04:34.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[29Aug2025 16:04:34.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[29Aug2025 16:04:35.315] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Aug2025 16:04:36.180] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
+[29Aug2025 16:04:36.181] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.952] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:38.953] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Aug2025 16:04:39.001] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[29Aug2025 16:04:39.099] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1439 advancements
+[29Aug2025 16:04:39.130] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
+[29Aug2025 16:04:39.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Aug2025 16:04:39.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Aug2025 16:04:39.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Aug2025 16:04:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Aug2025 16:04:39.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Aug2025 16:04:39.999] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Aug2025 16:04:40.092] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Aug2025 16:04:40.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Aug2025 16:04:40.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Aug2025 16:04:40.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Aug2025 16:04:40.111] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Aug2025 16:04:40.112] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Aug2025 16:04:40.113] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Aug2025 16:04:40.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Aug2025 16:04:43.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Aug2025 16:04:46.489] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.508] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.517] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.527] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:46.583] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:47.050] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:48.262] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:48.281] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:48.538] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:49.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:49.529] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Aug2025 16:04:50.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[29Aug2025 16:04:50.538] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7510 ms
+[29Aug2025 16:04:50.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.431s)! For help, type "help"
+[29Aug2025 16:04:50.569] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Aug2025 16:05:44.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:47181] logged in with entity id 191 at (4214.684896278888, 66.0, 837.9328371968558)
+[29Aug2025 16:05:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[29Aug2025 16:05:46.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[29Aug2025 16:06:41.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.214.232.94:39299] logged in with entity id 1031 at (2019.699999988079, 66.0, 2028.699999988079)
+[29Aug2025 16:06:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[29Aug2025 16:06:44.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[29Aug2025 16:06:49.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4171, y=37, z=516} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Aug2025 16:06:49.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=4171, y=37, z=516}
+[29Aug2025 16:06:49.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4165, y=20, z=517} but found not block entity block Block{minecraft:water}[level=2] at location
+[29Aug2025 16:06:49.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=4165, y=20, z=517}
+[29Aug2025 16:11:36.186] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[29Aug2025 16:11:36.187] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[29Aug2025 16:11:36.187] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[29Aug2025 16:11:36.307] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[29Aug2025 16:11:36.310] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[29Aug2025 16:11:36.313] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[29Aug2025 16:11:36.313] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[29Aug2025 16:11:36.314] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[29Aug2025 16:11:36.323] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[29Aug2025 16:11:36.324] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[29Aug2025 16:11:36.324] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[29Aug2025 16:11:38.820] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[29Aug2025 16:11:38.821] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[29Aug2025 16:11:38.822] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[29Aug2025 16:11:38.822] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[29Aug2025 16:11:38.823] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[29Aug2025 16:11:38.859] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[29Aug2025 16:11:38.859] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[29Aug2025 16:11:38.859] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[29Aug2025 16:11:38.860] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[29Aug2025 16:11:38.861] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[29Aug2025 16:11:38.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[29Aug2025 16:11:38.863] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[29Aug2025 16:12:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to jeanzzz]
