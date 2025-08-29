@@ -17,6 +17,7 @@
       "minecraft:deep_ocean": "2025-08-29 17:16:13 +0000",
       "minecraft:eroded_badlands": "2025-08-29 06:34:21 +0000",
       "minecraft:sunflower_plains": "2025-08-29 05:29:23 +0000",
+      "minecraft:cherry_grove": "2025-08-29 22:08:36 +0000",
       "minecraft:birch_forest": "2025-08-29 04:45:21 +0000",
       "minecraft:beach": "2025-08-29 04:39:03 +0000",
       "minecraft:lukewarm_ocean": "2025-08-29 05:30:27 +0000",
@@ -905,13 +906,16 @@
       "minecraft:hoglin": "2025-08-29 06:59:29 +0000",
       "minecraft:vindicator": "2025-08-29 17:20:05 +0000",
       "minecraft:piglin_brute": "2025-08-29 17:24:32 +0000",
+      "minecraft:spider": "2025-08-29 22:09:09 +0000",
       "minecraft:creeper": "2025-08-29 05:15:12 +0000",
       "minecraft:evoker": "2025-08-29 16:53:19 +0000",
       "minecraft:witch": "2025-08-29 21:47:56 +0000",
       "minecraft:wither_skeleton": "2025-08-29 17:27:00 +0000",
       "minecraft:husk": "2025-08-29 05:06:50 +0000",
       "minecraft:piglin": "2025-08-29 17:24:16 +0000",
+      "minecraft:enderman": "2025-08-29 22:09:36 +0000",
       "minecraft:zombie": "2025-08-29 05:16:12 +0000",
+      "minecraft:drowned": "2025-08-29 22:07:50 +0000",
       "minecraft:zombie_villager": "2025-08-29 16:43:19 +0000"
     },
     "done": false
@@ -1648,9 +1652,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-29 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-29 22:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-29 22:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
     },
     "done": true
   },
@@ -1660,9 +1724,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-29 22:01:58 +0000"
     },
     "done": true
   },
@@ -1672,9 +1772,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-08-29 22:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-29 22:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-29 21:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-08-29 22:05:03 +0000"
     },
     "done": true
   },
@@ -1687,6 +1835,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-29 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-29 22:01:54 +0000"
     },
     "done": true
   },

@@ -1658,3 +1658,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 21:47:45.269] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [29Aug2025 21:48:31.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Aug2025 21:48:31.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 21:53:31.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 21:53:31.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 21:57:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has completed the challenge [Serious Dedication]
+[29Aug2025 21:58:31.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 21:58:31.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:02:55.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12983ms or 259 ticks behind
+[29Aug2025 22:02:55.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 moved too quickly! 7.339228852755696,-1.0,6.8166283057616965
+[29Aug2025 22:03:33.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has completed the challenge [Serious Dedication]
+[29Aug2025 22:03:44.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:03:44.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:05:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [A Throwaway Joke]
+[29Aug2025 22:05:40.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1980, y=37, z=-4949} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Aug2025 22:05:40.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1980, y=37, z=-4949}
+[29Aug2025 22:08:44.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:08:44.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:11:44.172] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-18, z=-200}
+[29Aug2025 22:11:44.174] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=821, y=-18, z=-198}
+[29Aug2025 22:11:44.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=826, y=-19, z=-201}
+[29Aug2025 22:11:44.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=830, y=-19, z=-198}
+[29Aug2025 22:11:46.955] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=825, y=-19, z=-195}
+[29Aug2025 22:11:46.955] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=824, y=-19, z=-193}
+[29Aug2025 22:11:46.956] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=824, y=-19, z=-195}
+[29Aug2025 22:11:46.996] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-19, z=-195}
+[29Aug2025 22:11:46.997] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=823, y=-19, z=-193}
+[29Aug2025 22:12:16.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1628, y=37, z=-4597} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Aug2025 22:12:16.080] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1628, y=37, z=-4597}
+[29Aug2025 22:13:44.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:13:44.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
