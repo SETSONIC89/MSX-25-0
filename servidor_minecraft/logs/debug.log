@@ -4105,3 +4105,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 08:25:06.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Aug2025 08:25:06.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Aug2025 08:25:11.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3046, y=64, z=3120} BlockPos{x=3046, y=62, z=3121}
+[29Aug2025 08:29:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Vindicator
+[29Aug2025 08:29:08.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3032, 70, 2872) minecraft:overworld
+[29Aug2025 08:29:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Who's the Pillager Now?]
+[29Aug2025 08:30:06.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 08:30:06.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 08:31:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Vindicator
+[29Aug2025 08:31:05.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3029, 66, 2870) minecraft:overworld
+[29Aug2025 08:33:00.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.26941816420867326
+[29Aug2025 08:33:00.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.420769620684041
+[29Aug2025 08:33:00.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.4477114435258045
+[29Aug2025 08:33:01.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.41359426975031965
+[29Aug2025 08:33:01.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.40150724789873493
+[29Aug2025 08:33:01.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.5861487989200214
+[29Aug2025 08:33:02.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jeanzzz) moved wrongly! 0.2734970487622377
+[29Aug2025 08:35:06.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 08:35:06.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 08:36:50.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
