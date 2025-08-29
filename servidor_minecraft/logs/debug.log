@@ -1635,3 +1635,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 16:32:18.875] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-12, z=132}
 [29Aug2025 16:32:18.876] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-9, z=132}
 [29Aug2025 16:33:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
+[29Aug2025 16:34:59.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:34:59.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 16:39:59.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:39:59.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 16:42:00.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19271, l='ServerLevel[world]', x=3885.70, y=65.00, z=-961.80] died, message: 'Villager was slain by Zombie Villager'
+[29Aug2025 16:42:03.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19442, l='ServerLevel[world]', x=3876.30, y=64.00, z=-969.16] died, message: 'Villager was slain by Zombie Villager'
+[29Aug2025 16:42:05.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19270, l='ServerLevel[world]', x=3881.48, y=71.50, z=-900.05] died, message: 'Villager was slain by Zombie Villager'
+[29Aug2025 16:42:52.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [All Along The Watchtower]
+[29Aug2025 16:43:24.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/19296, l='ServerLevel[world]', x=3826.03, y=71.00, z=-915.06] died, message: 'Fisherman was slain by Vindicator'
+[29Aug2025 16:44:59.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:44:59.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 16:45:07.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [All Along The Watchtower]
+[29Aug2025 16:45:22.664] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19711, l='ServerLevel[world]', x=3903.36, y=64.00, z=-968.52] died, message: 'Villager was shot by Pillager'
+[29Aug2025 16:46:00.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19438, l='ServerLevel[world]', x=3870.88, y=66.00, z=-931.81] died, message: 'Villager was slain by Zombie Villager'
+[29Aug2025 16:46:01.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/19274, l='ServerLevel[world]', x=3817.02, y=65.00, z=-972.14] died, message: 'Toolsmith was slain by Zombie Villager'
+[29Aug2025 16:46:11.355] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19275, l='ServerLevel[world]', x=3878.56, y=68.00, z=-933.74] died, message: 'Villager was slain by Zombie Villager'
+[29Aug2025 16:46:22.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Zombie Villager
+[29Aug2025 16:46:22.523] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3824, 70, -923) minecraft:overworld
+[29Aug2025 16:47:27.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/19285, l='ServerLevel[world]', x=3936.71, y=124.00, z=-856.54] died, message: 'Mason was slain by Zombie Villager'
+[29Aug2025 16:47:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 fell from a high place
+[29Aug2025 16:47:43.179] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3829, 71, -909) minecraft:overworld
+[29Aug2025 16:48:25.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Zombie Villager
+[29Aug2025 16:48:25.376] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3851, 63, -929) minecraft:overworld
+[29Aug2025 16:48:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Zombie Villager
+[29Aug2025 16:49:59.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 16:49:59.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
