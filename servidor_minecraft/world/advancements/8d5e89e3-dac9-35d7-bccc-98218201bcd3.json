@@ -19,6 +19,7 @@
       "minecraft:deep_ocean": "2025-08-29 17:16:13 +0000",
       "minecraft:eroded_badlands": "2025-08-29 06:34:18 +0000",
       "minecraft:cherry_grove": "2025-08-29 22:09:53 +0000",
+      "minecraft:sunflower_plains": "2025-08-29 22:41:40 +0000",
       "minecraft:birch_forest": "2025-08-29 04:48:55 +0000",
       "minecraft:wooded_badlands": "2025-08-29 07:17:51 +0000",
       "minecraft:beach": "2025-08-29 04:37:25 +0000",
@@ -35,6 +36,7 @@
       "minecraft:windswept_savanna": "2025-08-29 05:36:38 +0000",
       "minecraft:warm_ocean": "2025-08-29 06:35:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-29 17:21:38 +0000",
+      "minecraft:flower_forest": "2025-08-29 22:42:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-29 05:32:27 +0000",
       "minecraft:meadow": "2025-08-29 16:18:56 +0000",
       "minecraft:savanna": "2025-08-29 05:36:01 +0000",
@@ -669,6 +671,7 @@
       "minecraft:piglin_brute": "2025-08-29 17:24:25 +0000",
       "minecraft:creeper": "2025-08-29 05:15:03 +0000",
       "minecraft:slime": "2025-08-29 06:49:16 +0000",
+      "minecraft:evoker": "2025-08-29 22:29:26 +0000",
       "minecraft:phantom": "2025-08-29 05:58:57 +0000",
       "minecraft:witch": "2025-08-29 16:40:39 +0000",
       "minecraft:wither_skeleton": "2025-08-29 06:44:53 +0000",
@@ -2824,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-29 22:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-29 21:47:52 +0000"
@@ -2911,6 +2920,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-08-29 21:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-29 22:29:04 +0000"
     },
     "done": true
   },
