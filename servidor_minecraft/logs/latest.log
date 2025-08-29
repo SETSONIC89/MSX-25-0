@@ -465,3 +465,28 @@
 [29Aug2025 05:11:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Isn't It Iron Pick]
 [29Aug2025 05:13:24.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: The difficulty has been set to Hard]
 [29Aug2025 05:13:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Sneak 100]
+[29Aug2025 05:16:20.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:33735] logged in with entity id 18952 at (-1.5, 69.0, -1.5)
+[29Aug2025 05:16:20.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
+[29Aug2025 05:17:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> esnxpi gómez
+[29Aug2025 05:17:08.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported esnxpi_ to ELTERROR99]
+[29Aug2025 05:17:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was blown up by ELTERROR99
+[29Aug2025 05:17:56.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(126, 63, 550) minecraft:overworld
+[29Aug2025 05:17:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was blown up by ELTERROR99
+[29Aug2025 05:17:56.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(125, 63, 548) minecraft:overworld
+[29Aug2025 05:20:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported esnxpi_ to ELTERROR99]
+[29Aug2025 05:20:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Cover Me with Diamonds]
+[29Aug2025 05:22:41.563] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[29Aug2025 05:23:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Take Aim]
+[29Aug2025 05:24:22.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=480, y=-22, z=906} but found not block entity block Block{minecraft:water}[level=8] at location
+[29Aug2025 05:24:22.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=480, y=-22, z=906}
+[29Aug2025 05:26:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Ice Bucket Challenge]
+[29Aug2025 05:28:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> la primera vez q fuimos al bosquecito a fumar
+[29Aug2025 05:28:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> KJAHSFJKSHAFKAJKFAJKH
+[29Aug2025 05:31:38.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1817, y=8, z=685} but found not block entity block Block{minecraft:water}[level=2] at location
+[29Aug2025 05:31:38.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=1817, y=8, z=685}
+[29Aug2025 05:31:52.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DripX_> 1700 70
+[29Aug2025 05:32:25.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=747, y=-20, z=-258}
+[29Aug2025 05:32:26.277] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=757, y=-29, z=-261}
+[29Aug2025 05:32:26.277] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=755, y=-29, z=-257}
+[29Aug2025 05:38:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Isn't It Iron Pick]
+[29Aug2025 05:38:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Suit Up]
