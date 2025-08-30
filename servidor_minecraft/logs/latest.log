@@ -285,3 +285,15 @@
 [30Aug2025 06:35:55.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> cual invasion
 [30Aug2025 06:37:07.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/164396, l='ServerLevel[world]', x=1739.00, y=125.25, z=606.12] died, message: 'Butcher was slain by jeanzzz using [Mohammed Sumbuls Sword]'
 [30Aug2025 06:37:07.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/164960, l='ServerLevel[world]', x=1737.91, y=125.56, z=605.27] died, message: 'Toolsmith was slain by jeanzzz using [Mohammed Sumbuls Sword]'
+[30Aug2025 06:39:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set hsxtommo's game mode to Creative Mode]
+[30Aug2025 06:41:45.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.47575587571896,1.0,-10.137928167238101
+[30Aug2025 06:41:45.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.545774218102224,1.0,-10.499917326869081
+[30Aug2025 06:41:45.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.5365645805832173,2.0,-10.862271231374393
+[30Aug2025 06:41:54.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved wrongly! 0.32302035459179024
+[30Aug2025 06:41:54.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved wrongly! 0.6893020620134394
+[30Aug2025 06:42:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [What a Deal!]
+[30Aug2025 06:42:58.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -3.8676365338719734,-7.145106700651638,5.904142866308121
+[30Aug2025 06:48:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> algn q duerma
+[30Aug2025 06:51:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Creative Mode]
+[30Aug2025 06:55:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
+[30Aug2025 06:58:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
