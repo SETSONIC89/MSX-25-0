@@ -2961,5 +2961,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-30 04:51:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

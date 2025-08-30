@@ -537,6 +537,7 @@
       "cooked_porkchop": "2025-08-29 04:50:39 +0000",
       "cooked_mutton": "2025-08-29 05:55:54 +0000",
       "cooked_beef": "2025-08-30 04:36:04 +0000",
+      "baked_potato": "2025-08-30 04:53:32 +0000",
       "apple": "2025-08-29 05:27:37 +0000",
       "bread": "2025-08-29 06:01:49 +0000",
       "cooked_chicken": "2025-08-30 03:58:05 +0000",
@@ -2080,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-30 04:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-30 03:38:00 +0000"
@@ -2092,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-30 04:53:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-30 03:37:37 +0000"
@@ -2101,6 +2114,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-30 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-30 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-30 04:49:23 +0000"
     },
     "done": true
   },
@@ -2143,6 +2168,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-30 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-30 04:53:11 +0000"
     },
     "done": true
   },

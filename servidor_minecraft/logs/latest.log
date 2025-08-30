@@ -215,3 +215,20 @@
 [30Aug2025 04:41:39.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:34441] logged in with entity id 71272 at (1689.5348487622273, 121.0, 616.8880610402883)
 [30Aug2025 04:41:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
 [30Aug2025 04:45:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> pilla terror
+[30Aug2025 04:47:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> que requieren?
+[30Aug2025 04:48:04.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> netherite
+[30Aug2025 04:48:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> si
+[30Aug2025 04:49:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> hp esto se mama un chunk
+[30Aug2025 04:50:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> como debe ser
+[30Aug2025 04:51:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> mios bb
+[30Aug2025 04:54:37.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[30Aug2025 04:54:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[30Aug2025 04:54:46.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35064ea5[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:54469) lost connection: Disconnected
+[30Aug2025 04:55:03.955] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16c6610a[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:53657) lost connection: Disconnected
+[30Aug2025 04:55:09.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@684d9a5e[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:36063) lost connection: Disconnected
+[30Aug2025 04:55:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> 2 stacks de netherite da pa armadura pa todos?
+[30Aug2025 04:55:25.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31af13c3[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:41745) lost connection: Disconnected
+[30Aug2025 04:55:29.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Si
+[30Aug2025 04:56:03.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@258860bd[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:55163) lost connection: Disconnected
+[30Aug2025 04:56:11.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:49489] logged in with entity id 89991 at (1706.2671268069364, 124.0, 604.0555612807219)
+[30Aug2025 04:56:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
