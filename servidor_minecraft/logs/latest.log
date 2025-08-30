@@ -232,3 +232,5 @@
 [30Aug2025 04:56:03.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@258860bd[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:55163) lost connection: Disconnected
 [30Aug2025 04:56:11.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:49489] logged in with entity id 89991 at (1706.2671268069364, 124.0, 604.0555612807219)
 [30Aug2025 04:56:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[30Aug2025 04:59:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> y los putos latoshornos?
+[30Aug2025 05:01:39.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Enchanter]
