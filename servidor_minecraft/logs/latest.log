@@ -130,3 +130,12 @@
 [30Aug2025 03:00:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
 [30Aug2025 03:15:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to Teniente_Rada]
 [30Aug2025 03:20:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Cover Me with Diamonds]
+[30Aug2025 03:34:07.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[30Aug2025 03:34:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
+[30Aug2025 03:34:07.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
+[30Aug2025 03:34:07.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
+[30Aug2025 03:34:12.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.51.242.34:55139] logged in with entity id 33919 at (2374.4890337940483, 24.0, 3307.2685245709213)
+[30Aug2025 03:34:12.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[30Aug2025 03:34:28.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c75a14b[id=<null>,name=esnxpi_,properties={},legacy=false] (/127.68.144.139:35987) lost connection: Disconnected
+[30Aug2025 03:34:31.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:53929] logged in with entity id 34243 at (2379.127255537656, 23.0, 3307.9817209670264)
+[30Aug2025 03:34:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game

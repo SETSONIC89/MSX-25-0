@@ -31,6 +31,7 @@
       "minecraft:windswept_savanna": "2025-08-29 05:36:34 +0000",
       "minecraft:warm_ocean": "2025-08-29 07:26:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-29 04:48:41 +0000",
+      "minecraft:deep_dark": "2025-08-30 03:29:39 +0000",
       "minecraft:savanna": "2025-08-29 05:36:03 +0000",
       "minecraft:plains": "2025-08-29 05:24:29 +0000"
     },
@@ -2014,6 +2015,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-30 03:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2025-08-30 03:11:37 +0000"
@@ -2029,6 +2036,12 @@
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-30 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-30 03:32:08 +0000"
     },
     "done": true
   },
