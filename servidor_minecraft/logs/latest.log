@@ -238,3 +238,22 @@
 [30Aug2025 05:13:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Ice Bucket Challenge]
 [30Aug2025 05:18:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Sweet Dreams]
 [30Aug2025 05:21:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 1684 847
+[30Aug2025 05:35:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [You Are A Pirate]
+[30Aug2025 05:35:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Hot Stuff]
+[30Aug2025 05:35:51.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hsxtommo[/127.108.38.234:59579] logged in with entity id 112466 at (-2.5, 69.0, 5.5)
+[30Aug2025 05:35:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo joined the game
+[30Aug2025 05:37:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
+[30Aug2025 05:40:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Suit Up]
+[30Aug2025 05:42:18.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101488, l='ServerLevel[world]', x=1679.67, y=81.94, z=844.44] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:42:46.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1088, y=-3, z=-756} but found not block entity block Block{minecraft:water}[level=1] at location
+[30Aug2025 05:42:46.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1088, y=-3, z=-756}
+[30Aug2025 05:42:47.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101485, l='ServerLevel[world]', x=1681.70, y=81.94, z=844.30] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:43:02.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101490, l='ServerLevel[world]', x=1682.49, y=82.00, z=849.29] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:43:21.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101550, l='ServerLevel[world]', x=1681.67, y=82.00, z=844.87] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:43:42.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101487, l='ServerLevel[world]', x=1682.57, y=82.00, z=847.20] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:43:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> consu puedes dormir xfi
+[30Aug2025 05:44:09.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101489, l='ServerLevel[world]', x=1679.41, y=82.00, z=845.60] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:44:37.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101442, l='ServerLevel[world]', x=1681.61, y=82.00, z=844.91] died, message: 'Villager was slain by Zombie'
+[30Aug2025 05:44:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Sweet Dreams]
+[30Aug2025 05:44:55.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/101441, l='ServerLevel[world]', x=1679.82, y=81.94, z=844.43] died, message: 'Nitwit was slain by Zombie'
+[30Aug2025 05:46:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> oppenhaimers
