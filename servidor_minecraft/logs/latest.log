@@ -100,3 +100,5 @@
 [30Aug2025 18:59:38.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
 [30Aug2025 19:02:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
 [30Aug2025 19:13:52.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
+[30Aug2025 19:20:05.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
+[30Aug2025 19:20:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
