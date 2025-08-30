@@ -94,3 +94,6 @@
 [30Aug2025 18:34:43.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
 [30Aug2025 18:34:45.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:43601] logged in with entity id 438 at (1696.328385575465, 124.0, 601.307570581603)
 [30Aug2025 18:34:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[30Aug2025 18:47:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to rain]
+[30Aug2025 18:47:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to clear]
+[30Aug2025 18:49:31.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]

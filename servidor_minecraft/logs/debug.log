@@ -1613,3 +1613,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Aug2025 18:34:54.610] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [30Aug2025 18:38:59.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 18:38:59.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 18:43:59.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 18:43:59.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 18:47:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to rain]
+[30Aug2025 18:47:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to clear]
+[30Aug2025 18:48:59.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 18:48:59.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 18:49:31.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
+[30Aug2025 18:50:38.185] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Aug2025 18:50:38.188] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Aug2025 18:53:59.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 18:53:59.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
