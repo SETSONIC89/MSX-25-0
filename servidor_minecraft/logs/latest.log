@@ -257,3 +257,8 @@
 [30Aug2025 05:44:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Sweet Dreams]
 [30Aug2025 05:44:55.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/101441, l='ServerLevel[world]', x=1679.82, y=81.94, z=844.43] died, message: 'Nitwit was slain by Zombie'
 [30Aug2025 05:46:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> oppenhaimers
+[30Aug2025 05:48:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Stone Age]
+[30Aug2025 05:49:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
+[30Aug2025 05:49:11.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1697, 107, 584) minecraft:overworld
+[30Aug2025 05:50:58.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[30Aug2025 05:50:58.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
