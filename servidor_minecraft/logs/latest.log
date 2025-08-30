@@ -297,3 +297,20 @@
 [30Aug2025 06:51:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Creative Mode]
 [30Aug2025 06:55:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
 [30Aug2025 06:58:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
+[30Aug2025 07:10:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [We Need to Go Deeper]
+[30Aug2025 07:14:36.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1436330e[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:37493) lost connection: Disconnected
+[30Aug2025 07:14:39.779] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [curios:main] rejected their client side version number
+[30Aug2025 07:14:39.780] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[30Aug2025 07:14:39.803] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54ca4c95[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:46487) lost connection: Connection closed - mismatched mod channel list
+[30Aug2025 07:15:37.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teniente_Rada moved wrongly!
+[30Aug2025 07:15:49.668] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [curios:main] rejected their client side version number
+[30Aug2025 07:15:49.668] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[30Aug2025 07:15:49.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39a27fc0[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:40699) lost connection: Connection closed - mismatched mod channel list
+[30Aug2025 07:18:35.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:52999] logged in with entity id 186217 at (2028.5919859038224, 67.0, 2022.300000011921)
+[30Aug2025 07:18:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
+[30Aug2025 07:23:45.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -0.6391798524612113,0.0,-10.043500232330416
+[30Aug2025 07:24:01.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -4.7911215643478045,-1.2315237975870161,-8.829256291380034
+[30Aug2025 07:30:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> farmeen tierra y mas madera
+[30Aug2025 07:30:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> no no
+[30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2454, y=-17, z=4736} but found not block entity block Block{minecraft:water}[level=1] at location
+[30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2454, y=-17, z=4736}
