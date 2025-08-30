@@ -97,3 +97,5 @@
 [30Aug2025 18:47:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to rain]
 [30Aug2025 18:47:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set the weather to clear]
 [30Aug2025 18:49:31.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Spectator Mode]
+[30Aug2025 18:59:38.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[30Aug2025 19:02:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
