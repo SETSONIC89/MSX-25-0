@@ -1,318 +1,96 @@
-[30Aug2025 02:13:41.441] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Aug2025 02:13:41.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[30Aug2025 02:13:41.990] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Aug2025 02:13:42.049] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Aug2025 02:13:42.287] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 02:13:42.288] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 02:13:42.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 02:13:42.290] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 02:13:42.415] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[30Aug2025 02:13:44.052] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Aug2025 02:13:44.129] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Aug2025 02:13:44.208] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Aug2025 02:13:50.294] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
-[30Aug2025 02:13:51.048] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[30Aug2025 02:13:51.316] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[30Aug2025 02:13:51.327] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Aug2025 02:13:51.327] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Aug2025 02:13:51.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@4289feba has been registered twice for the same name treechop:chop_wood.
-[30Aug2025 02:13:51.998] [main/INFO] [journeymap/]: Initializing Packet Registries
-[30Aug2025 02:13:52.067] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[30Aug2025 02:13:52.068] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[30Aug2025 02:13:52.068] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[30Aug2025 02:13:52.071] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[30Aug2025 02:13:52.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[30Aug2025 02:13:52.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[30Aug2025 02:13:52.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
-[30Aug2025 02:13:52.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
-[30Aug2025 02:13:52.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Aug2025 02:13:53.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30Aug2025 02:13:53.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
-[30Aug2025 02:13:53.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
-[30Aug2025 02:13:54.419] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Aug2025 02:13:55.289] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
-[30Aug2025 02:13:55.290] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
-[30Aug2025 02:13:58.396] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.397] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.398] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.398] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.398] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.398] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.398] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.399] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.399] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.399] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[30Aug2025 02:13:58.474] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[30Aug2025 02:13:58.604] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1439 advancements
-[30Aug2025 02:13:58.616] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[30Aug2025 02:13:58.634] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[30Aug2025 02:13:58.657] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
-[30Aug2025 02:13:59.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Aug2025 02:13:59.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Aug2025 02:13:59.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Aug2025 02:13:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Aug2025 02:13:59.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Aug2025 02:13:59.483] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Aug2025 02:13:59.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Aug2025 02:13:59.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Aug2025 02:13:59.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Aug2025 02:13:59.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Aug2025 02:13:59.586] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 02:13:59.587] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 02:13:59.588] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 02:13:59.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Aug2025 02:14:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Aug2025 02:14:08.650] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.651] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.651] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.653] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.653] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.655] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.655] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:08.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 02:14:09.088] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[30Aug2025 02:14:09.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[30Aug2025 02:14:10.069] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7481 ms
-[30Aug2025 02:14:10.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.488s)! For help, type "help"
-[30Aug2025 02:14:10.096] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Aug2025 02:14:27.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:42093] logged in with entity id 177 at (2758.7835961500787, 69.0, 3104.4037789453)
-[30Aug2025 02:14:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[30Aug2025 02:14:29.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
-[30Aug2025 02:14:35.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teniente_Rada[/127.195.205.88:45893] logged in with entity id 457 at (6.5, 74.0, 9.5)
-[30Aug2025 02:14:35.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada joined the game
-[30Aug2025 02:14:51.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made esnxpi_ a server operator
-[30Aug2025 02:14:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> la teniente rada
-[30Aug2025 02:15:06.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=68, z=8}
-[30Aug2025 02:15:21.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=70, z=17} BlockPos{x=5, y=67, z=15}
-[30Aug2025 02:15:54.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=5, y=67, z=8}
-[30Aug2025 02:15:55.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=6, y=68, z=8}
-[30Aug2025 02:16:05.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=3, y=69, z=14}
-[30Aug2025 02:16:13.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=10, y=67, z=12}
-[30Aug2025 02:16:13.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=10, y=68, z=12}
-[30Aug2025 02:16:13.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=69, z=17} BlockPos{x=10, y=67, z=12}
-[30Aug2025 02:16:46.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=71, z=27} BlockPos{x=6, y=68, z=8}
-[30Aug2025 02:17:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Dungeon Now Loading]
-[30Aug2025 02:18:02.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.51.242.34:34005] logged in with entity id 1817 at (1694.9278286305598, 124.0, 629.0130717423208)
-[30Aug2025 02:18:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[30Aug2025 02:18:05.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
-[30Aug2025 02:18:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Stone Age]
-[30Aug2025 02:18:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to esnxpi_]
-[30Aug2025 02:19:37.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Getting an Upgrade]
-[30Aug2025 02:22:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Acquire Hardware]
-[30Aug2025 02:23:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Isn't It Iron Pick]
-[30Aug2025 02:24:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Diamonds!]
-[30Aug2025 02:26:24.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Monster Hunter]
-[30Aug2025 02:26:42.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2042, y=23, z=3568} but found not block entity block Block{minecraft:water}[level=1] at location
-[30Aug2025 02:26:42.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2042, y=23, z=3568}
-[30Aug2025 02:27:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported Teniente_Rada to ELTERROR99]
-[30Aug2025 02:32:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> te culeo
-[30Aug2025 02:35:43.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
-[30Aug2025 02:36:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has completed the challenge [Serious Dedication]
-[30Aug2025 02:37:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Suit Up]
-[30Aug2025 02:43:01.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Cover Me with Diamonds]
-[30Aug2025 02:48:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to Teniente_Rada]
-[30Aug2025 02:50:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Into Fire]
-[30Aug2025 02:58:28.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has completed the challenge [It Spreads]
-[30Aug2025 02:58:38.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Simple Dungeon Room]
-[30Aug2025 03:00:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
-[30Aug2025 03:15:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to Teniente_Rada]
-[30Aug2025 03:20:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Cover Me with Diamonds]
-[30Aug2025 03:34:07.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTERROR99 lost connection: Disconnected
-[30Aug2025 03:34:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
-[30Aug2025 03:34:07.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
-[30Aug2025 03:34:07.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
-[30Aug2025 03:34:12.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.51.242.34:55139] logged in with entity id 33919 at (2374.4890337940483, 24.0, 3307.2685245709213)
-[30Aug2025 03:34:12.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
-[30Aug2025 03:34:28.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c75a14b[id=<null>,name=esnxpi_,properties={},legacy=false] (/127.68.144.139:35987) lost connection: Disconnected
-[30Aug2025 03:34:31.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:53929] logged in with entity id 34243 at (2379.127255537656, 23.0, 3307.9817209670264)
-[30Aug2025 03:34:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
-[30Aug2025 03:45:57.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -12.290501616494112,1.1380457905416392,-2.2911198253409566
-[30Aug2025 03:48:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Voluntary Exile]
-[30Aug2025 03:48:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -5.627913585774877,-0.8245767040478995,-8.60990954531826
-[30Aug2025 03:54:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Spooky Scary Skeleton]
-[30Aug2025 03:58:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Voluntary Exile]
-[30Aug2025 04:01:09.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has completed the challenge [Hero of the Village]
-[30Aug2025 04:01:09.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has completed the challenge [Hero of the Village]
-[30Aug2025 04:01:09.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has completed the challenge [Hero of the Village]
-[30Aug2025 04:03:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> habla
-[30Aug2025 04:04:21.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> ya no
-[30Aug2025 04:04:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> ya no hablo
-[30Aug2025 04:04:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> se me descargaron los hp audifonos
-[30Aug2025 04:05:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> yo les doy comida cv
-[30Aug2025 04:06:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> lleguen perras
-[30Aug2025 04:06:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> el audio del computador
-[30Aug2025 04:06:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> womic
-[30Aug2025 04:06:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> pobre de mierda
-[30Aug2025 04:07:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> me estas diciendo que la casa es cule de loma hp
-[30Aug2025 04:08:11.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6607975619833724
-[30Aug2025 04:08:11.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.38220759976616137
-[30Aug2025 04:08:11.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6362551018319209
-[30Aug2025 04:08:11.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.3694697084354175
-[30Aug2025 04:08:13.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6183680810740952
-[30Aug2025 04:08:13.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 0.6183680810740952
-[30Aug2025 04:08:25.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! 0.5233907197725784,0.0,-10.38661010669648
-[30Aug2025 04:08:25.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! 0.5438222803370536,0.0,-10.786086371615283
-[30Aug2025 04:08:25.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved too quickly! 0.5642614841412978,0.0,-11.1855623910742
-[30Aug2025 04:09:14.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of esnxpi_) moved wrongly! 1.4962434061214935
-[30Aug2025 04:09:14.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of esnxpi_) moved wrongly! 1.4786550592782532
-[30Aug2025 04:09:16.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 1.540696205837321
-[30Aug2025 04:09:16.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of esnxpi_) moved wrongly! 1.540696205837321
-[30Aug2025 04:11:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> efectivamente
-[30Aug2025 04:12:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Ice Bucket Challenge]
-[30Aug2025 04:12:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> aqui esta toda la obsidiana
-[30Aug2025 04:12:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> hay 2 putas obsidianas
-[30Aug2025 04:13:31.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teniente_Rada lost connection: Disconnected
-[30Aug2025 04:13:31.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada left the game
-[30Aug2025 04:13:40.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teniente_Rada[/127.195.205.88:51259] logged in with entity id 56750 at (1643.405076058856, 62.0, 613.916006286553)
-[30Aug2025 04:13:40.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada joined the game
-[30Aug2025 04:14:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> si gran malparido si no tienen ni vg
-[30Aug2025 04:14:48.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> cule chocoaventura
-[30Aug2025 04:15:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> no joda 2 stacks de diamante
-[30Aug2025 04:15:19.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> y tanto que hicieron
-[30Aug2025 04:15:21.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:48217] logged in with entity id 57690 at (1704.155213455089, 123.0, 617.5431815525711)
-[30Aug2025 04:15:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[30Aug2025 04:19:34.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of ELTERROR99) moved wrongly! 0.2961474935793831
-[30Aug2025 04:19:34.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of ELTERROR99) moved wrongly! 0.884023700597254
-[30Aug2025 04:19:34.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of ELTERROR99) moved wrongly! 1.0
-[30Aug2025 04:20:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ fell from a high place
-[30Aug2025 04:20:48.937] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1692, 81, 591) minecraft:overworld
-[30Aug2025 04:21:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported esnxpi_ to jeanzzz]
-[30Aug2025 04:21:28.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[30Aug2025 04:25:07.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> estoy consiguiendo la hp obsidiana
-[30Aug2025 04:25:36.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> ey aqui hay 10
-[30Aug2025 04:26:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [We Need to Go Deeper]
-[30Aug2025 04:26:18.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -8.907926492086062,4.57644070545696,-1.266993462273149
-[30Aug2025 04:26:18.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[30Aug2025 04:26:45.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> gracias a mi care monda
-[30Aug2025 04:27:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [We Need to Go Deeper]
-[30Aug2025 04:31:04.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> sisas
-[30Aug2025 04:32:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was doomed to fall
-[30Aug2025 04:32:35.839] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1674, 64, 613) minecraft:overworld
-[30Aug2025 04:32:51.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[30Aug2025 04:32:51.339] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
-[30Aug2025 04:33:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Hidden in the Depths]
-[30Aug2025 04:33:24.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> netherite
-[30Aug2025 04:33:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> no metan ladrillo los deja asi
-[30Aug2025 04:35:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> papi hay unos cofres por ahi con un poco de piedra
-[30Aug2025 04:38:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> coge comida
-[30Aug2025 04:41:24.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> mas comida
-[30Aug2025 04:41:26.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> lleguen
-[30Aug2025 04:41:34.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[30Aug2025 04:41:34.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[30Aug2025 04:41:39.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:34441] logged in with entity id 71272 at (1689.5348487622273, 121.0, 616.8880610402883)
-[30Aug2025 04:41:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[30Aug2025 04:45:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> pilla terror
-[30Aug2025 04:47:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> que requieren?
-[30Aug2025 04:48:04.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> netherite
-[30Aug2025 04:48:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> si
-[30Aug2025 04:49:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> hp esto se mama un chunk
-[30Aug2025 04:50:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> como debe ser
-[30Aug2025 04:51:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> mios bb
-[30Aug2025 04:54:37.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
-[30Aug2025 04:54:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
-[30Aug2025 04:54:46.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35064ea5[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:54469) lost connection: Disconnected
-[30Aug2025 04:55:03.955] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16c6610a[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:53657) lost connection: Disconnected
-[30Aug2025 04:55:09.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@684d9a5e[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:36063) lost connection: Disconnected
-[30Aug2025 04:55:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> 2 stacks de netherite da pa armadura pa todos?
-[30Aug2025 04:55:25.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31af13c3[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:41745) lost connection: Disconnected
-[30Aug2025 04:55:29.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTERROR99> Si
-[30Aug2025 04:56:03.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@258860bd[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:55163) lost connection: Disconnected
-[30Aug2025 04:56:11.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:49489] logged in with entity id 89991 at (1706.2671268069364, 124.0, 604.0555612807219)
-[30Aug2025 04:56:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
-[30Aug2025 04:59:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> y los putos latoshornos?
-[30Aug2025 05:01:39.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Enchanter]
-[30Aug2025 05:13:03.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [We Need to Go Deeper]
-[30Aug2025 05:13:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Ice Bucket Challenge]
-[30Aug2025 05:18:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Sweet Dreams]
-[30Aug2025 05:21:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 1684 847
-[30Aug2025 05:35:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [You Are A Pirate]
-[30Aug2025 05:35:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Hot Stuff]
-[30Aug2025 05:35:51.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hsxtommo[/127.108.38.234:59579] logged in with entity id 112466 at (-2.5, 69.0, 5.5)
-[30Aug2025 05:35:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo joined the game
-[30Aug2025 05:37:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
-[30Aug2025 05:40:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Suit Up]
-[30Aug2025 05:42:18.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101488, l='ServerLevel[world]', x=1679.67, y=81.94, z=844.44] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:42:46.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1088, y=-3, z=-756} but found not block entity block Block{minecraft:water}[level=1] at location
-[30Aug2025 05:42:46.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1088, y=-3, z=-756}
-[30Aug2025 05:42:47.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101485, l='ServerLevel[world]', x=1681.70, y=81.94, z=844.30] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:43:02.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101490, l='ServerLevel[world]', x=1682.49, y=82.00, z=849.29] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:43:21.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101550, l='ServerLevel[world]', x=1681.67, y=82.00, z=844.87] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:43:42.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101487, l='ServerLevel[world]', x=1682.57, y=82.00, z=847.20] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:43:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> consu puedes dormir xfi
-[30Aug2025 05:44:09.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101489, l='ServerLevel[world]', x=1679.41, y=82.00, z=845.60] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:44:37.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101442, l='ServerLevel[world]', x=1681.61, y=82.00, z=844.91] died, message: 'Villager was slain by Zombie'
-[30Aug2025 05:44:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Sweet Dreams]
-[30Aug2025 05:44:55.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/101441, l='ServerLevel[world]', x=1679.82, y=81.94, z=844.43] died, message: 'Nitwit was slain by Zombie'
-[30Aug2025 05:46:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> oppenhaimers
-[30Aug2025 05:48:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Stone Age]
-[30Aug2025 05:49:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
-[30Aug2025 05:49:11.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1697, 107, 584) minecraft:overworld
-[30Aug2025 05:50:58.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
-[30Aug2025 05:50:58.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
-[30Aug2025 05:58:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Isn't It Iron Pick]
-[30Aug2025 06:03:45.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=965, y=20, z=-3531} but found not block entity block Block{minecraft:water}[level=1] at location
-[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=965, y=20, z=-3531}
-[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=971, y=37, z=-3532} but found not block entity block Block{minecraft:water}[level=0] at location
-[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=971, y=37, z=-3532}
-[30Aug2025 06:04:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
-[30Aug2025 06:04:54.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1693, 100, 589) minecraft:overworld
-[30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=852, y=37, z=-4427} but found not block entity block Block{minecraft:water}[level=0] at location
-[30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=852, y=37, z=-4427}
-[30Aug2025 06:13:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Fishy Business]
-[30Aug2025 06:21:08.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 234 160
-[30Aug2025 06:21:37.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> consome panchi
-[30Aug2025 06:21:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo was shot by Skeleton
-[30Aug2025 06:21:48.409] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1662, 63, 635) minecraft:overworld
-[30Aug2025 06:22:09.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
-[30Aug2025 06:22:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo was doomed to fall by Zombie
-[30Aug2025 06:23:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
-[30Aug2025 06:25:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> frank bohada
-[30Aug2025 06:34:26.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Best Friends Forever]
-[30Aug2025 06:35:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> jean
-[30Aug2025 06:35:55.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> cual invasion
-[30Aug2025 06:37:07.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/164396, l='ServerLevel[world]', x=1739.00, y=125.25, z=606.12] died, message: 'Butcher was slain by jeanzzz using [Mohammed Sumbuls Sword]'
-[30Aug2025 06:37:07.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/164960, l='ServerLevel[world]', x=1737.91, y=125.56, z=605.27] died, message: 'Toolsmith was slain by jeanzzz using [Mohammed Sumbuls Sword]'
-[30Aug2025 06:39:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set hsxtommo's game mode to Creative Mode]
-[30Aug2025 06:41:45.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.47575587571896,1.0,-10.137928167238101
-[30Aug2025 06:41:45.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.545774218102224,1.0,-10.499917326869081
-[30Aug2025 06:41:45.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved too quickly! -1.5365645805832173,2.0,-10.862271231374393
-[30Aug2025 06:41:54.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved wrongly! 0.32302035459179024
-[30Aug2025 06:41:54.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of esnxpi_) moved wrongly! 0.6893020620134394
-[30Aug2025 06:42:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [What a Deal!]
-[30Aug2025 06:42:58.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -3.8676365338719734,-7.145106700651638,5.904142866308121
-[30Aug2025 06:48:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> algn q duerma
-[30Aug2025 06:51:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Creative Mode]
-[30Aug2025 06:55:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
-[30Aug2025 06:58:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
-[30Aug2025 07:10:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [We Need to Go Deeper]
-[30Aug2025 07:14:36.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1436330e[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:37493) lost connection: Disconnected
-[30Aug2025 07:14:39.779] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [curios:main] rejected their client side version number
-[30Aug2025 07:14:39.780] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[30Aug2025 07:14:39.803] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54ca4c95[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:46487) lost connection: Connection closed - mismatched mod channel list
-[30Aug2025 07:15:37.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teniente_Rada moved wrongly!
-[30Aug2025 07:15:49.668] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [curios:main] rejected their client side version number
-[30Aug2025 07:15:49.668] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[30Aug2025 07:15:49.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39a27fc0[id=<null>,name=DripX_,properties={},legacy=false] (/127.217.87.206:40699) lost connection: Connection closed - mismatched mod channel list
-[30Aug2025 07:18:35.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:52999] logged in with entity id 186217 at (2028.5919859038224, 67.0, 2022.300000011921)
-[30Aug2025 07:18:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
-[30Aug2025 07:23:45.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -0.6391798524612113,0.0,-10.043500232330416
-[30Aug2025 07:24:01.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -4.7911215643478045,-1.2315237975870161,-8.829256291380034
-[30Aug2025 07:30:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> farmeen tierra y mas madera
-[30Aug2025 07:30:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> no no
-[30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2454, y=-17, z=4736} but found not block entity block Block{minecraft:water}[level=1] at location
-[30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2454, y=-17, z=4736}
-[30Aug2025 07:57:58.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2714, y=3, z=5584} but found not block entity block Block{minecraft:water}[level=1] at location
-[30Aug2025 07:57:58.718] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2714, y=3, z=5584}
+[30Aug2025 18:33:26.147] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30Aug2025 18:33:26.151] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[30Aug2025 18:33:27.983] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Aug2025 18:33:28.062] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-25-0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Aug2025 18:33:28.481] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 18:33:28.482] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 18:33:28.484] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 18:33:28.485] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 18:33:28.830] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[30Aug2025 18:33:30.874] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Aug2025 18:33:30.939] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Aug2025 18:33:31.015] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Aug2025 18:33:38.108] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[30Aug2025 18:33:38.882] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[30Aug2025 18:33:39.018] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30Aug2025 18:33:39.048] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Aug2025 18:33:39.048] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Aug2025 18:33:39.249] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@4ffe2ded has been registered twice for the same name treechop:chop_wood.
+[30Aug2025 18:33:39.748] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Aug2025 18:33:39.812] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[30Aug2025 18:33:39.813] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[30Aug2025 18:33:39.813] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[30Aug2025 18:33:39.815] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[30Aug2025 18:33:40.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30Aug2025 18:33:40.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30Aug2025 18:33:40.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
+[30Aug2025 18:33:40.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
+[30Aug2025 18:33:40.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Aug2025 18:33:40.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30Aug2025 18:33:40.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[30Aug2025 18:33:40.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[30Aug2025 18:33:41.862] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Aug2025 18:33:42.655] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/assets/.mcassetsroot' uses unexpected schema
+[30Aug2025 18:33:42.655] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-25-0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23147!/data/.mcassetsroot' uses unexpected schema
+[30Aug2025 18:33:45.637] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.637] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.637] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.638] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/diamond_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.639] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.640] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.640] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.640] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:dungeonnowloading:entities/modified/iron_zombie}.pools[1].entries[0]->{minecraft:entities/zombie}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Aug2025 18:33:45.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[30Aug2025 18:33:45.799] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1439 advancements
+[30Aug2025 18:33:45.807] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[30Aug2025 18:33:45.811] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30Aug2025 18:33:45.841] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
+[30Aug2025 18:33:46.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Aug2025 18:33:46.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Aug2025 18:33:46.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Aug2025 18:33:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Aug2025 18:33:46.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Aug2025 18:33:46.462] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Aug2025 18:33:46.549] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Aug2025 18:33:46.549] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Aug2025 18:33:46.550] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Aug2025 18:33:46.550] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Aug2025 18:33:46.566] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Aug2025 18:33:46.567] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Aug2025 18:33:46.567] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Aug2025 18:33:46.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Aug2025 18:33:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Aug2025 18:33:52.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.608] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:52.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:53.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:53.862] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:53.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:54.460] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:54.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:55.813] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:55.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 18:33:56.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[30Aug2025 18:33:56.931] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[30Aug2025 18:33:56.990] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7559 ms
+[30Aug2025 18:33:56.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.428s)! For help, type "help"
+[30Aug2025 18:33:57.022] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Aug2025 18:34:41.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTERROR99[/127.51.242.34:58271] logged in with entity id 169 at (1666.3762152550423, 79.0, 863.6999999880791)
+[30Aug2025 18:34:41.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 joined the game
+[30Aug2025 18:34:43.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[30Aug2025 18:34:45.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:43601] logged in with entity id 438 at (1696.328385575465, 124.0, 601.307570581603)
+[30Aug2025 18:34:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
