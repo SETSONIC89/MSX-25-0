@@ -314,3 +314,5 @@
 [30Aug2025 07:30:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teniente_Rada> no no
 [30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2454, y=-17, z=4736} but found not block entity block Block{minecraft:water}[level=1] at location
 [30Aug2025 07:39:28.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2454, y=-17, z=4736}
+[30Aug2025 07:57:58.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2714, y=3, z=5584} but found not block entity block Block{minecraft:water}[level=1] at location
+[30Aug2025 07:57:58.718] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2714, y=3, z=5584}
