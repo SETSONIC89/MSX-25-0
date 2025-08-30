@@ -415,6 +415,7 @@
       "porkchop": "2025-08-30 02:29:32 +0000",
       "mutton": "2025-08-29 05:31:28 +0000",
       "golden_apple": "2025-08-29 05:26:39 +0000",
+      "bread": "2025-08-30 03:59:16 +0000",
       "golden_carrot": "2025-08-29 16:26:01 +0000",
       "enchanted_golden_apple": "2025-08-29 16:54:49 +0000"
     },
@@ -2272,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-30 03:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-08-30 03:41:02 +0000"
@@ -2314,6 +2321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-30 03:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-30 03:40:57 +0000"
@@ -2323,6 +2336,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-30 03:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-30 03:54:27 +0000"
     },
     "done": true
   },
@@ -2338,9 +2357,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-30 04:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-30 03:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-30 03:55:21 +0000"
     },
     "done": true
   },
@@ -2353,6 +2384,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-30 03:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-30 03:54:46 +0000"
     },
     "done": true
   },
