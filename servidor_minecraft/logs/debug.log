@@ -3183,3 +3183,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Aug2025 05:50:58.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
 [30Aug2025 05:54:21.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 05:54:21.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 05:58:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Isn't It Iron Pick]
+[30Aug2025 05:59:21.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 05:59:21.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 06:03:45.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=965, y=20, z=-3531} but found not block entity block Block{minecraft:water}[level=1] at location
+[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=965, y=20, z=-3531}
+[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=971, y=37, z=-3532} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Aug2025 06:03:45.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=971, y=37, z=-3532}
+[30Aug2025 06:04:21.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 06:04:21.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 06:04:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
+[30Aug2025 06:04:54.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1693, 100, 589) minecraft:overworld
+[30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=852, y=37, z=-4427} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=852, y=37, z=-4427}
+[30Aug2025 06:09:21.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 06:09:21.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 06:13:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Fishy Business]
+[30Aug2025 06:14:21.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 06:14:21.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
