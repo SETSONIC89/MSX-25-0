@@ -119,3 +119,7 @@
 [30Aug2025 02:26:42.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2042, y=23, z=3568}
 [30Aug2025 02:27:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported Teniente_Rada to ELTERROR99]
 [30Aug2025 02:32:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> te culeo
+[30Aug2025 02:35:43.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
+[30Aug2025 02:36:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has completed the challenge [Serious Dedication]
+[30Aug2025 02:37:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Suit Up]
+[30Aug2025 02:43:01.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Cover Me with Diamonds]

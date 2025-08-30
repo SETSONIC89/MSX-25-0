@@ -412,6 +412,7 @@
       "cooked_beef": "2025-08-29 05:03:43 +0000",
       "baked_potato": "2025-08-29 05:47:36 +0000",
       "beef": "2025-08-29 05:29:02 +0000",
+      "porkchop": "2025-08-30 02:29:32 +0000",
       "mutton": "2025-08-29 05:31:28 +0000",
       "golden_apple": "2025-08-29 05:26:39 +0000",
       "golden_carrot": "2025-08-29 16:26:01 +0000",
@@ -1884,6 +1885,24 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-29 23:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 02:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 02:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 02:34:18 +0000"
     },
     "done": true
   },
