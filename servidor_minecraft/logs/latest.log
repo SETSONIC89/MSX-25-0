@@ -139,3 +139,7 @@
 [30Aug2025 03:34:28.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c75a14b[id=<null>,name=esnxpi_,properties={},legacy=false] (/127.68.144.139:35987) lost connection: Disconnected
 [30Aug2025 03:34:31.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:53929] logged in with entity id 34243 at (2379.127255537656, 23.0, 3307.9817209670264)
 [30Aug2025 03:34:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
+[30Aug2025 03:45:57.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -12.290501616494112,1.1380457905416392,-2.2911198253409566
+[30Aug2025 03:48:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [Voluntary Exile]
+[30Aug2025 03:48:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! -5.627913585774877,-0.8245767040478995,-8.60990954531826
+[30Aug2025 03:54:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Spooky Scary Skeleton]
