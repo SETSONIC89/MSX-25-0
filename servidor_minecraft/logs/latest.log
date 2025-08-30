@@ -272,3 +272,11 @@
 [30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=852, y=37, z=-4427} but found not block entity block Block{minecraft:water}[level=0] at location
 [30Aug2025 06:07:37.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=852, y=37, z=-4427}
 [30Aug2025 06:13:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Fishy Business]
+[30Aug2025 06:21:08.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 234 160
+[30Aug2025 06:21:37.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> consome panchi
+[30Aug2025 06:21:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo was shot by Skeleton
+[30Aug2025 06:21:48.409] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1662, 63, 635) minecraft:overworld
+[30Aug2025 06:22:09.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
+[30Aug2025 06:22:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo was doomed to fall by Zombie
+[30Aug2025 06:23:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo fell from a high place
+[30Aug2025 06:25:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> frank bohada
