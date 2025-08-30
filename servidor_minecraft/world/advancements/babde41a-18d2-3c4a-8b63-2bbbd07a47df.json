@@ -2200,6 +2200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-30 07:01:45 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/destructor_core": {
     "criteria": {
       "has_the_recipe": "2025-08-30 04:44:46 +0000"
@@ -2305,6 +2311,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-30 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-30 07:01:45 +0000"
     },
     "done": true
   },
@@ -2716,6 +2728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-30 07:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-08-30 04:43:54 +0000"
@@ -2803,6 +2821,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-30 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-30 07:01:45 +0000"
     },
     "done": true
   },

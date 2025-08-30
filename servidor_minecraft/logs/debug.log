@@ -3242,3 +3242,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Aug2025 06:54:21.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Aug2025 06:55:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported hsxtommo to jeanzzz]
 [30Aug2025 06:58:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
+[30Aug2025 06:59:21.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 06:59:21.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 07:04:21.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 07:04:21.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
