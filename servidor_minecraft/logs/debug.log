@@ -1812,3 +1812,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Aug2025 03:00:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Diamonds!]
 [30Aug2025 03:04:19.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 03:04:19.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 03:09:19.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 03:09:19.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 03:14:19.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 03:14:19.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 03:15:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported ELTERROR99 to Teniente_Rada]
+[30Aug2025 03:19:19.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 03:19:19.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 03:20:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Cover Me with Diamonds]
+[30Aug2025 03:24:19.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 03:24:19.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

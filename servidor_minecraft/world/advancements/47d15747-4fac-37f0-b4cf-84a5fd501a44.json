@@ -1966,9 +1966,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 03:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-30 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 03:12:24 +0000"
     },
     "done": true
   },
@@ -1990,9 +2002,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 03:12:24 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-08-30 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-08-30 03:11:37 +0000"
     },
     "done": true
   },
