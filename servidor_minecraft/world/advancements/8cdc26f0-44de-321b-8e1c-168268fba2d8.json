@@ -2734,9 +2734,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "location0": "2025-08-30 08:49:38 +0000"
+      "has_spider_eye": "2025-08-30 08:28:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-08-30 08:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-30 08:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-30 08:42:50 +0000"
     },
     "done": true
   },
@@ -2752,21 +2770,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-30 08:28:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-08-30 08:42:52 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-08-30 08:29:12 +0000"
     },
     "done": true
   },
@@ -2788,15 +2794,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "has_packed_mud": "2025-08-30 08:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-08-30 08:32:28 +0000"
+      "location0": "2025-08-30 08:49:38 +0000"
     },
     "done": true
   },
