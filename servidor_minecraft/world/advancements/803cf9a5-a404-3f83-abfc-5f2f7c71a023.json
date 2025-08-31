@@ -21,6 +21,7 @@
       "minecraft:birch_forest": "2025-08-29 04:45:21 +0000",
       "minecraft:wooded_badlands": "2025-08-30 02:22:11 +0000",
       "minecraft:badlands": "2025-08-30 02:22:13 +0000",
+      "minecraft:savanna_plateau": "2025-08-31 07:44:37 +0000",
       "minecraft:beach": "2025-08-29 04:39:03 +0000",
       "minecraft:mangrove_swamp": "2025-08-29 23:01:41 +0000",
       "minecraft:sparse_jungle": "2025-08-29 23:01:06 +0000",
@@ -2708,6 +2709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-08-31 03:28:42 +0000"
@@ -2840,6 +2847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-08-31 05:31:18 +0000"
@@ -2889,6 +2902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-31 05:31:18 +0000"
@@ -2898,6 +2917,12 @@
   "dungeonnowloading:recipes/misc/skull_of_chaos": {
     "criteria": {
       "has_spawner_blade": "2025-08-31 05:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
     },
     "done": true
   },
@@ -2949,6 +2974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-31 05:31:18 +0000"
@@ -2958,6 +2989,12 @@
   "dungeonnowloading:recipes/combat/spawner_helmet": {
     "criteria": {
       "has_spawner_frame": "2025-08-31 04:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
     },
     "done": true
   },
@@ -2985,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-08-31 04:58:44 +0000"
@@ -3006,6 +3049,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-31 03:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
     },
     "done": true
   },
@@ -3132,6 +3181,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-08-31 04:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-31 07:55:07 +0000"
     },
     "done": true
   },

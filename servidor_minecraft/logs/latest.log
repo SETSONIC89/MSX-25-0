@@ -685,3 +685,27 @@
 [31Aug2025 07:16:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
 [31Aug2025 07:16:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to Teniente_Rada]
 [31Aug2025 07:16:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]
+[31Aug2025 07:41:05.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[31Aug2025 07:41:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[31Aug2025 07:41:11.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:42209] logged in with entity id 355262 at (1688.4684661711267, 105.98916736586486, 595.5285157413581)
+[31Aug2025 07:41:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[31Aug2025 07:41:13.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[31Aug2025 07:41:13.072] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1688, 75, 595) minecraft:overworld
+[31Aug2025 07:41:42.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 07:41:42.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[31Aug2025 07:41:42.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 07:45:25.099] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[31Aug2025 07:45:25.100] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[31Aug2025 07:45:25.100] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[31Aug2025 07:45:25.100] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[31Aug2025 07:45:25.100] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[31Aug2025 07:45:59.810] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[31Aug2025 07:45:59.810] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[31Aug2025 07:45:59.816] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[31Aug2025 07:45:59.816] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[31Aug2025 07:45:59.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[31Aug2025 07:45:59.848] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[31Aug2025 07:47:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> like
+[31Aug2025 07:51:00.335] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[31Aug2025 07:51:00.335] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[31Aug2025 07:59:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported esnxpi_ to jeanzzz]
