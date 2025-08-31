@@ -106,3 +106,17 @@
 [31Aug2025 01:06:46.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
 [31Aug2025 01:06:46.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved too quickly! -1.819059683464502,7.0,-7.410177855947836
 [31Aug2025 01:08:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has reached the goal [You Need a Mint]
+[31Aug2025 01:12:59.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was doomed to fall
+[31Aug2025 01:12:59.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1744, 69, 638) minecraft:overworld
+[31Aug2025 01:13:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was doomed to fall by ELTERROR99
+[31Aug2025 01:13:14.014] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1752, 81, 635) minecraft:overworld
+[31Aug2025 01:13:30.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 01:13:46.393] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 01:13:46.394] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 01:22:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Husk
+[31Aug2025 01:22:15.436] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(5141, 81, 140) minecraft:overworld
+[31Aug2025 01:23:42.388] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 01:25:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Simple Dungeon Room]
+[31Aug2025 01:31:19.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Creative Mode]
+[31Aug2025 01:33:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported jeanzzz to ELTERROR99]
+[31Aug2025 01:38:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
