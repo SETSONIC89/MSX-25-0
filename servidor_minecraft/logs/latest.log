@@ -415,3 +415,184 @@
 [31Aug2025 03:25:09.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/95383, l='ServerLevel[world]', x=3899.99, y=156.00, z=-4725.66] died: Gearling was slain by ELTERROR99 using [Herobrine STAFF]
 [31Aug2025 03:25:51.147] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [31Aug2025 03:25:51.148] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 03:40:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 3908 -4724
+[31Aug2025 03:43:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Wither Skeleton
+[31Aug2025 03:43:38.647] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3894, 189, -4720) minecraft:overworld
+[31Aug2025 03:45:44.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved too quickly! 3.718020939170856,2.3246295543530877,-10.533445396465538
+[31Aug2025 03:46:01.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2155, y=37, z=20} but found not block entity block Block{minecraft:water}[level=8] at location
+[31Aug2025 03:46:01.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=2155, y=37, z=20}
+[31Aug2025 03:46:15.129] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[31Aug2025 03:46:15.129] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[31Aug2025 03:46:15.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[31Aug2025 03:46:15.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[31Aug2025 03:46:15.137] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[31Aug2025 03:46:15.160] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[31Aug2025 03:46:15.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[31Aug2025 03:46:15.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[31Aug2025 03:46:15.165] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[31Aug2025 03:46:55.644] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 03:48:53.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:54487] logged in with entity id 114927 at (1695.0643406627455, 121.0, 585.6655395354217)
+[31Aug2025 03:48:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
+[31Aug2025 03:49:37.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116138, l='ServerLevel[world]', x=3903.51, y=212.00, z=-4706.25] died: Gearling was slain by ELTERROR99 using [Herobrine STAFF]
+[31Aug2025 03:49:38.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116162, l='ServerLevel[world]', x=3903.05, y=211.00, z=-4706.56] died: Gearling was slain by ELTERROR99 using [Herobrine STAFF]
+[31Aug2025 03:49:40.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116187, l='ServerLevel[world]', x=3903.54, y=212.25, z=-4706.11] died: Gearling was slain by ELTERROR99 using [Herobrine STAFF]
+[31Aug2025 03:49:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was blown up by Creeper
+[31Aug2025 03:49:41.491] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3903, 212, -4706) minecraft:overworld
+[31Aug2025 03:49:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was blown up by Creeper
+[31Aug2025 03:49:56.208] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3911, 211, -4723) minecraft:overworld
+[31Aug2025 03:52:12.001] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 03:52:49.795] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 03:52:49.795] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 03:52:52.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/122846, l='ServerLevel[world]', x=3905.55, y=212.06, z=-4688.21] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 03:55:12.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Skeleton
+[31Aug2025 03:55:12.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3904, 211, -4663) minecraft:overworld
+[31Aug2025 03:55:17.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/126497, l='ServerLevel[world]', x=3904.39, y=212.00, z=-4634.57] died: Gearling was slain by DripX_
+[31Aug2025 03:58:49.028] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 03:59:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Skeleton
+[31Aug2025 03:59:18.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3894, 194, -4620) minecraft:overworld
+[31Aug2025 04:02:18.106] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:02:18.107] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 04:03:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> mátalo a lo john polanco
+[31Aug2025 04:05:11.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8094ms or 161 ticks behind
+[31Aug2025 04:05:11.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ moved too quickly! 3.6219255942814925,1.8787031594607981,-9.1574684488819
+[31Aug2025 04:08:51.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teniente_Rada[/127.195.205.88:59169] logged in with entity id 147146 at (1778.9783485379496, 117.0, 626.9182747141651)
+[31Aug2025 04:08:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada joined the game
+[31Aug2025 04:08:58.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has reached the goal [Postmortal]
+[31Aug2025 04:10:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Wither Skeleton
+[31Aug2025 04:10:36.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3901, 213, -4592) minecraft:overworld
+[31Aug2025 04:10:52.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[31Aug2025 04:10:52.726] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[31Aug2025 04:10:52.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[31Aug2025 04:10:52.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[31Aug2025 04:10:52.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[31Aug2025 04:10:52.737] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[31Aug2025 04:10:52.738] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[31Aug2025 04:10:52.738] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[31Aug2025 04:11:01.375] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[31Aug2025 04:11:01.391] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[31Aug2025 04:11:01.392] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[31Aug2025 04:11:01.402] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[31Aug2025 04:11:01.402] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[31Aug2025 04:11:01.402] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[31Aug2025 04:12:40.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Disconnected
+[31Aug2025 04:12:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
+[31Aug2025 04:14:40.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved too quickly! 3.50890704107087,11.245553705886195,-0.24702381487804814
+[31Aug2025 04:14:40.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[31Aug2025 04:14:51.912] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:15:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Welcome To The Machine]
+[31Aug2025 04:18:24.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/160295, l='ServerLevel[world]', x=3853.59, y=212.00, z=-4685.29] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 04:18:25.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/160341, l='ServerLevel[world]', x=3848.85, y=67.88, z=-4686.91] died: Gearling was doomed to fall
+[31Aug2025 04:19:08.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[31Aug2025 04:19:08.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[31Aug2025 04:19:21.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:38459] logged in with entity id 161202 at (3912.2133522704867, 93.76711848616146, -4757.640678796292)
+[31Aug2025 04:19:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[31Aug2025 04:19:22.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[31Aug2025 04:19:22.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3911, 80, -4758) minecraft:overworld
+[31Aug2025 04:19:45.444] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:19:45.444] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 04:20:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[31Aug2025 04:20:55.548] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3911, 145, -4620) minecraft:overworld
+[31Aug2025 04:24:33.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51696059[id=<null>,name=esnxpi_,properties={},legacy=false] (/127.68.144.139:45283) lost connection: Disconnected
+[31Aug2025 04:24:50.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/166873, l='ServerLevel[world]', x=3904.00, y=207.00, z=-4573.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:12.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167337, l='ServerLevel[world]', x=3903.86, y=224.00, z=-4567.14] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:13.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167367, l='ServerLevel[world]', x=3904.46, y=224.00, z=-4566.48] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:30.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167415, l='ServerLevel[world]', x=3903.84, y=207.00, z=-4573.39] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:32.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167451, l='ServerLevel[world]', x=3902.73, y=207.00, z=-4573.55] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:35.886] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:25:35.887] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 04:25:54.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167483, l='ServerLevel[world]', x=3903.28, y=224.00, z=-4572.22] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:54.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167820, l='ServerLevel[world]', x=3903.56, y=224.00, z=-4573.10] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:54.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167839, l='ServerLevel[world]', x=3903.60, y=224.00, z=-4572.37] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:25:55.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167824, l='ServerLevel[world]', x=3904.13, y=225.25, z=-4572.14] died: Gearling was burnt to a crisp whilst fighting jeanzzz
+[31Aug2025 04:26:02.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167495, l='ServerLevel[world]', x=3900.63, y=225.00, z=-4570.44] died: Gearling was burnt to a crisp whilst fighting jeanzzz
+[31Aug2025 04:26:03.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada has made the advancement [What a Deal!]
+[31Aug2025 04:26:03.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/167486, l='ServerLevel[world]', x=3899.87, y=226.50, z=-4571.09] died: Gearling was burnt to a crisp whilst fighting jeanzzz
+[31Aug2025 04:26:31.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168197, l='ServerLevel[world]', x=3901.43, y=190.00, z=-4576.46] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 04:26:39.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168224, l='ServerLevel[world]', x=3902.98, y=190.00, z=-4574.13] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 04:26:45.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Gearling
+[31Aug2025 04:26:45.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3894, 201, -4575) minecraft:overworld
+[31Aug2025 04:26:45.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168288, l='ServerLevel[world]', x=3894.22, y=199.50, z=-4570.42] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 04:26:48.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168204, l='ServerLevel[world]', x=3894.15, y=200.50, z=-4572.59] died: Gearling was burnt to a crisp whilst fighting ELTERROR99
+[31Aug2025 04:26:50.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/168317, l='ServerLevel[world]', x=3894.33, y=200.00, z=-4570.88] died: Gearling burned to death
+[31Aug2025 04:32:12.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/170857, l='ServerLevel[world]', x=3902.91, y=276.06, z=-4619.41] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:32:13.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/170867, l='ServerLevel[world]', x=3903.50, y=276.40, z=-4620.13] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:32:21.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/170980, l='ServerLevel[world]', x=3910.39, y=275.00, z=-4620.05] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:32:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was slain by Gearling
+[31Aug2025 04:32:24.792] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3907, 275, -4618) minecraft:overworld
+[31Aug2025 04:34:10.290] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:37:02.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:37:02.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 04:37:56.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[31Aug2025 04:37:56.039] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3866, 229, -4685) minecraft:overworld
+[31Aug2025 04:38:12.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176820, l='ServerLevel[world]', x=3903.42, y=275.00, z=-4629.15] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:37.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/177206, l='ServerLevel[world]', x=3904.49, y=275.00, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:37.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180028, l='ServerLevel[world]', x=3904.21, y=275.19, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:37.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/180231, l='ServerLevel[world]', x=3904.34, y=275.19, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:37.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176608, l='ServerLevel[world]', x=3904.65, y=275.19, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:37.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176733, l='ServerLevel[world]', x=3904.69, y=275.19, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:38:39.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/176589, l='ServerLevel[world]', x=3904.50, y=275.19, z=-4626.66] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:40:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ was slain by Wither Skeleton
+[31Aug2025 04:40:07.488] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3862, 229, -4685) minecraft:overworld
+[31Aug2025 04:41:25.803] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:41:25.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 04:41:36.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ withered away whilst fighting Wither Skeleton
+[31Aug2025 04:41:36.548] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3867, 229, -4668) minecraft:overworld
+[31Aug2025 04:42:12.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 04:42:12.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 04:42:46.211] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 04:43:29.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/187888, l='ServerLevel[world]', x=3917.60, y=298.18, z=-4611.51] died: Gearling was blown up by Creeper
+[31Aug2025 04:43:29.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/186312, l='ServerLevel[world]', x=3911.77, y=297.75, z=-4608.66] died: Gearling was blown up by Creeper
+[31Aug2025 04:43:41.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/189023, l='ServerLevel[world]', x=3917.47, y=297.50, z=-4617.71] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:45.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/186297, l='ServerLevel[world]', x=3920.46, y=298.06, z=-4619.29] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:46.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/187970, l='ServerLevel[world]', x=3921.21, y=298.06, z=-4622.36] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:48.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/187876, l='ServerLevel[world]', x=3919.73, y=298.06, z=-4621.21] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:51.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/186315, l='ServerLevel[world]', x=3921.00, y=297.00, z=-4615.93] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:57.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/187343, l='ServerLevel[world]', x=3921.42, y=297.75, z=-4614.63] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:43:58.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/187350, l='ServerLevel[world]', x=3918.92, y=298.06, z=-4620.08] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:44:30.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/189860, l='ServerLevel[world]', x=3888.49, y=297.00, z=-4616.65] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:44:31.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/189864, l='ServerLevel[world]', x=3886.54, y=297.00, z=-4615.69] died: Gearling was slain by jeanzzz using [Mohammed Sumbuls Sword]
+[31Aug2025 04:44:33.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/189872, l='ServerLevel[world]', x=3888.51, y=297.00, z=-4616.50] died: Gearling was burnt to a crisp whilst fighting jeanzzz
+[31Aug2025 04:48:08.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz was kicked for floating too long!
+[31Aug2025 04:48:08.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Flying is not enabled on this server
+[31Aug2025 04:48:08.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[31Aug2025 04:48:13.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:37147] logged in with entity id 193315 at (3923.246632344466, 264.50826405914, -4628.490667484982)
+[31Aug2025 04:48:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[31Aug2025 04:48:21.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz was kicked for floating too long!
+[31Aug2025 04:48:21.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Flying is not enabled on this server
+[31Aug2025 04:48:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[31Aug2025 04:48:38.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17e6987[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:46091) lost connection: Disconnected
+[31Aug2025 04:48:50.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24538975[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:49169) lost connection: Disconnected
+[31Aug2025 04:48:56.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48fa2b21[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:47131) lost connection: Disconnected
+[31Aug2025 04:50:26.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:56449] logged in with entity id 194950 at (3933.229252575842, 214.6458239276155, -4636.639927640131)
+[31Aug2025 04:50:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[31Aug2025 04:50:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Teleported jeanzzz to ELTERROR99]
+[31Aug2025 04:54:22.205] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[31Aug2025 04:58:04.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Landlord'/120028, l='ServerLevel[world]', x=4006.55, y=93.06, z=-4529.85] died: Landlord was slain by ELTERROR99
+[31Aug2025 05:05:49.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ lost connection: Timed out
+[31Aug2025 05:05:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ left the game
+[31Aug2025 05:10:40.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DripX_[/127.217.87.206:58381] logged in with entity id 212050 at (4108.699999988079, 88.0, -4499.245677381889)
+[31Aug2025 05:10:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ joined the game
+[31Aug2025 05:14:48.479] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[31Aug2025 05:14:48.486] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[31Aug2025 05:14:48.486] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[31Aug2025 05:14:48.491] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[31Aug2025 05:14:48.491] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[31Aug2025 05:14:48.491] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[31Aug2025 05:14:48.498] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[31Aug2025 05:14:48.498] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[31Aug2025 05:14:48.504] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[31Aug2025 05:14:48.505] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[31Aug2025 05:14:48.505] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[31Aug2025 05:14:48.505] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[31Aug2025 05:14:48.505] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[31Aug2025 05:14:48.510] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[31Aug2025 05:14:48.510] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[31Aug2025 05:14:48.511] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[31Aug2025 05:14:48.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4524, y=37, z=-4917} but found not block entity block Block{minecraft:water}[level=0] at location
+[31Aug2025 05:14:48.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=4524, y=37, z=-4917}
+[31Aug2025 05:14:48.686] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4523, y=20, z=-4923} but found not block entity block Block{minecraft:water}[level=2] at location
+[31Aug2025 05:14:48.686] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=4523, y=20, z=-4923}
+[31Aug2025 05:14:52.050] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[31Aug2025 05:14:52.196] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[31Aug2025 05:17:53.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/166307, l='ServerLevel[world]', x=1702.44, y=121.00, z=601.31] died, message: 'Fletcher was slain by Iron Golem'
+[31Aug2025 05:20:15.817] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
