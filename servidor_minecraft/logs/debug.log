@@ -1949,3 +1949,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Aug2025 01:38:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTERROR99: Set own game mode to Survival Mode]
 [31Aug2025 01:41:08.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Aug2025 01:41:08.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 01:46:08.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 01:46:08.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 01:50:13.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hsxtommo has made the advancement [Monster Hunter]
+[31Aug2025 01:51:08.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 01:51:08.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
