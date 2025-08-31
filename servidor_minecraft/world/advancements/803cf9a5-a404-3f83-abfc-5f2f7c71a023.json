@@ -32,6 +32,7 @@
       "minecraft:lush_caves": "2025-08-29 16:31:24 +0000",
       "minecraft:desert": "2025-08-29 06:34:27 +0000",
       "minecraft:ocean": "2025-08-29 04:56:37 +0000",
+      "minecraft:jungle": "2025-08-31 06:02:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-29 04:36:21 +0000",
       "minecraft:windswept_savanna": "2025-08-29 05:30:40 +0000",
       "minecraft:warm_ocean": "2025-08-29 06:35:09 +0000",
@@ -2858,6 +2859,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-08-31 06:25:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-08-31 03:28:30 +0000"
@@ -2975,6 +2982,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-31 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-31 06:02:56 +0000"
     },
     "done": true
   },

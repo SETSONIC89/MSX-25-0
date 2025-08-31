@@ -622,3 +622,24 @@
 [31Aug2025 05:50:13.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(188, 34, 374) minecraft:the_nether
 [31Aug2025 05:55:25.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [31Aug2025 05:55:25.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[31Aug2025 06:02:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [What a Deal!]
+[31Aug2025 06:02:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Withering Heights]
+[31Aug2025 06:02:56.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Withering Heights]
+[31Aug2025 06:09:37.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz lost connection: Disconnected
+[31Aug2025 06:09:37.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz left the game
+[31Aug2025 06:10:10.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19fdc7ec[id=<null>,name=jeanzzz,properties={},legacy=false] (/127.108.38.234:39839) lost connection: Disconnected
+[31Aug2025 06:10:15.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanzzz[/127.108.38.234:55655] logged in with entity id 288851 at (1693.8806081394162, 126.0, 631.290446461837)
+[31Aug2025 06:10:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz joined the game
+[31Aug2025 06:13:59.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ELTERROR99) moved wrongly! 0.43482403285911947
+[31Aug2025 06:13:59.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ELTERROR99) moved wrongly! 0.47034635881882164
+[31Aug2025 06:15:15.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ fell from a high place
+[31Aug2025 06:15:15.564] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1832, 63, 1492) minecraft:overworld
+[31Aug2025 06:23:14.560] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 06:23:14.560] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[31Aug2025 06:23:14.561] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[31Aug2025 06:24:01.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ moved too quickly! 0.2874449097494107,-0.019613692486643686,11.447836556488255
+[31Aug2025 06:25:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Labyrinth]
+[31Aug2025 06:25:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Labyrinth]
+[31Aug2025 06:25:38.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved wrongly!
+[31Aug2025 06:25:39.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved wrongly!
+[31Aug2025 06:25:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Labyrinth]
