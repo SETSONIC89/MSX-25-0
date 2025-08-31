@@ -718,3 +718,15 @@
 [31Aug2025 08:10:56.625] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [31Aug2025 08:18:45.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teniente_Rada lost connection: Disconnected
 [31Aug2025 08:18:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada left the game
+[31Aug2025 08:29:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Aug2025 08:29:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Aug2025 08:29:39.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Aug2025 08:29:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Aug2025 08:29:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Aug2025 08:29:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Aug2025 08:29:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Aug2025 08:29:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Aug2025 08:29:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Aug2025 08:29:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Aug2025 08:29:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Aug2025 08:29:44.552] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
