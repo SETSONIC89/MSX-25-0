@@ -596,3 +596,22 @@
 [31Aug2025 05:14:52.196] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
 [31Aug2025 05:17:53.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/166307, l='ServerLevel[world]', x=1702.44, y=121.00, z=601.31] died, message: 'Fletcher was slain by Iron Golem'
 [31Aug2025 05:20:15.817] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 05:27:26.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DripX_) moved wrongly! 0.297817490696616
+[31Aug2025 05:27:26.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DripX_) moved wrongly! 0.3390198794641037
+[31Aug2025 05:27:26.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DripX_) moved wrongly! 0.34784775029311277
+[31Aug2025 05:27:26.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DripX_) moved wrongly! 0.31235142525565607
+[31Aug2025 05:27:26.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DripX_) moved wrongly! 0.3220016023833523
+[31Aug2025 05:31:48.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 burned to death
+[31Aug2025 05:31:48.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(257, 112, 59) minecraft:the_nether
+[31Aug2025 05:32:16.000] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 05:34:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has reached the goal [Postmortal]
+[31Aug2025 05:36:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Into Fire]
+[31Aug2025 05:39:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanzzz> 168 369
+[31Aug2025 05:40:49.398] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 05:41:56.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=116, z=346} BlockPos{x=191, y=117, z=347}
+[31Aug2025 05:41:56.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=116, z=346} BlockPos{x=191, y=117, z=347}
+[31Aug2025 05:41:56.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=115, z=345} BlockPos{x=191, y=117, z=347}
+[31Aug2025 05:42:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Giddy Blaze
+[31Aug2025 05:42:10.975] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(171, 34, 346) minecraft:the_nether
+[31Aug2025 05:44:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Into Fire]
+[31Aug2025 05:44:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 fell from a high place

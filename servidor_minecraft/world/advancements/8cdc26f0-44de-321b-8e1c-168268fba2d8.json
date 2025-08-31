@@ -17,6 +17,7 @@
       "minecraft:taiga": "2025-08-30 08:00:05 +0000",
       "minecraft:deep_ocean": "2025-08-30 08:23:38 +0000",
       "minecraft:eroded_badlands": "2025-08-30 07:31:20 +0000",
+      "minecraft:frozen_river": "2025-08-31 05:33:59 +0000",
       "minecraft:sunflower_plains": "2025-08-29 05:29:34 +0000",
       "minecraft:birch_forest": "2025-08-29 04:57:54 +0000",
       "minecraft:bamboo_jungle": "2025-08-30 07:35:10 +0000",
@@ -31,6 +32,8 @@
       "minecraft:lukewarm_ocean": "2025-08-29 05:30:27 +0000",
       "minecraft:river": "2025-08-29 04:58:33 +0000",
       "minecraft:stony_shore": "2025-08-30 07:32:02 +0000",
+      "minecraft:snowy_plains": "2025-08-31 05:34:36 +0000",
+      "minecraft:snowy_taiga": "2025-08-31 05:33:35 +0000",
       "minecraft:swamp": "2025-08-30 07:40:52 +0000",
       "minecraft:grove": "2025-08-30 08:58:28 +0000",
       "minecraft:cold_ocean": "2025-08-30 07:59:59 +0000",
@@ -1985,7 +1988,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-08-29 06:28:11 +0000"
+      "minecraft:soul_sand_valley": "2025-08-29 06:28:11 +0000",
+      "minecraft:basalt_deltas": "2025-08-31 05:38:28 +0000"
     },
     "done": false
   },
@@ -3192,6 +3196,18 @@
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-08-31 05:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-31 05:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-31 05:40:48 +0000"
     },
     "done": true
   },
