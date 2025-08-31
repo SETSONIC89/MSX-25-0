@@ -3217,6 +3217,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-08-31 06:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-08-31 05:46:03 +0000"
@@ -3277,9 +3283,21 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-08-31 06:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-31 05:46:05 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-08-31 06:35:32 +0000"
     },
     "done": true
   },
@@ -3328,6 +3346,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-31 06:02:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-08-31 06:35:32 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-08-31 06:35:32 +0000"
     },
     "done": true
   },

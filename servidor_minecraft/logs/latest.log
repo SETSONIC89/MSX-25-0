@@ -643,3 +643,7 @@
 [31Aug2025 06:25:38.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved wrongly!
 [31Aug2025 06:25:39.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanzzz moved wrongly!
 [31Aug2025 06:25:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 has made the advancement [Labyrinth]
+[31Aug2025 06:40:57.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48271c8f[id=<null>,name=esnxpi_,properties={},legacy=false] (/127.68.144.139:36695) lost connection: Disconnected
+[31Aug2025 06:41:03.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:46601] logged in with entity id 313154 at (2563.699999988079, 79.0625, -1602.012153607934)
+[31Aug2025 06:41:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
+[31Aug2025 06:46:37.048] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
