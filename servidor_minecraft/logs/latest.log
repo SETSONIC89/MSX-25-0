@@ -715,3 +715,6 @@
 [31Aug2025 08:05:58.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 left the game
 [31Aug2025 08:08:28.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esnxpi_ lost connection: Timed out
 [31Aug2025 08:08:28.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ left the game
+[31Aug2025 08:10:56.625] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[31Aug2025 08:18:45.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teniente_Rada lost connection: Disconnected
+[31Aug2025 08:18:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada left the game

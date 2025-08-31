@@ -3325,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-31 08:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-31 07:52:29 +0000"
@@ -3464,6 +3470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-31 08:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-31 06:58:51 +0000"
@@ -3581,6 +3593,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-31 06:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-31 08:15:45 +0000"
     },
     "done": true
   },
