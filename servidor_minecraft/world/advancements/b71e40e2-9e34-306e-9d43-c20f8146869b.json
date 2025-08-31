@@ -663,7 +663,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "pumpkin_pie": "2025-08-30 06:39:55 +0000"
+      "pumpkin_pie": "2025-08-30 06:39:55 +0000",
+      "cooked_salmon": "2025-08-31 02:23:10 +0000"
     },
     "done": false
   },
@@ -1063,6 +1064,36 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-31 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-31 02:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-08-31 02:23:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-31 02:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-31 02:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-08-31 01:50:13 +0000"
@@ -1074,6 +1105,24 @@
       "minecraft:spider": "2025-08-31 01:50:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-31 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-08-31 02:23:28 +0000",
+      "minecraft:tabby": "2025-08-31 02:23:36 +0000",
+      "minecraft:calico": "2025-08-31 02:24:19 +0000",
+      "minecraft:siamese": "2025-08-31 02:23:59 +0000",
+      "minecraft:persian": "2025-08-31 02:24:33 +0000",
+      "minecraft:british_shorthair": "2025-08-31 02:24:02 +0000",
+      "minecraft:red": "2025-08-31 02:24:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

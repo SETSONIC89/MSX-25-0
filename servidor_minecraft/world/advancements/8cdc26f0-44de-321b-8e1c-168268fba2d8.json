@@ -40,8 +40,10 @@
       "minecraft:old_growth_spruce_taiga": "2025-08-29 04:56:53 +0000",
       "minecraft:windswept_savanna": "2025-08-29 05:30:40 +0000",
       "minecraft:warm_ocean": "2025-08-29 06:22:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-31 02:17:49 +0000",
       "minecraft:flower_forest": "2025-08-29 05:29:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-29 06:49:23 +0000",
+      "minecraft:meadow": "2025-08-31 02:05:53 +0000",
       "minecraft:savanna": "2025-08-29 05:29:28 +0000",
       "minecraft:plains": "2025-08-29 05:24:29 +0000"
     },
@@ -2801,6 +2803,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 01:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-08-31 01:30:51 +0000"
@@ -2810,6 +2824,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-08-31 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-31 01:54:36 +0000"
     },
     "done": true
   },
@@ -2837,15 +2857,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 01:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-08-31 01:08:07 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-31 02:06:44 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-08-31 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-31 01:53:04 +0000"
     },
     "done": true
   },
@@ -2861,9 +2905,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-31 01:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-31 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-08-31 01:52:39 +0000"
     },
     "done": true
   },
