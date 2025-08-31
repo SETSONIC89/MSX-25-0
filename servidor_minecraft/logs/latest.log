@@ -615,3 +615,10 @@
 [31Aug2025 05:42:10.975] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(171, 34, 346) minecraft:the_nether
 [31Aug2025 05:44:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Into Fire]
 [31Aug2025 05:44:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 fell from a high place
+[31Aug2025 05:47:33.025] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 05:48:17.853] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 05:49:16.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=38, z=357} BlockPos{x=175, y=39, z=357}
+[31Aug2025 05:50:13.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teniente_Rada tried to swim in lava
+[31Aug2025 05:50:13.323] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(188, 34, 374) minecraft:the_nether
+[31Aug2025 05:55:25.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 05:55:25.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
