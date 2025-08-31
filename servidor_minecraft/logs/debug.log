@@ -4071,3 +4071,36 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Aug2025 06:56:17.806] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [31Aug2025 06:56:26.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Aug2025 06:56:26.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 07:01:26.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 07:01:26.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 07:01:26.446] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 07:03:54.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/323089, l='ServerLevel[world]', x=1704.44, y=123.00, z=605.47] died, message: 'Villager was slain by jeanzzz using [chachacha]'
+[31Aug2025 07:04:04.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz fell from a high place
+[31Aug2025 07:04:04.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1684, 82, 606) minecraft:overworld
+[31Aug2025 07:04:27.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 07:04:27.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[31Aug2025 07:04:27.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 07:04:46.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/323091, l='ServerLevel[world]', x=1715.70, y=123.00, z=599.30] died, message: 'Armorer was slain by ELTERROR99'
+[31Aug2025 07:06:26.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 07:06:26.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 07:07:08.510] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31Aug2025 07:11:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported esnxpi_ to jeanzzz]
+[31Aug2025 07:11:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [Labyrinth]
+[31Aug2025 07:11:26.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 07:11:26.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 07:12:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz was blown up by jeanzzz using [FLECHANDO CULOS]
+[31Aug2025 07:12:43.936] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2303, -54, 2318) minecraft:overworld
+[31Aug2025 07:12:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ was blown up by jeanzzz
+[31Aug2025 07:12:43.941] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2308, -54, 2322) minecraft:overworld
+[31Aug2025 07:13:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported esnxpi_ to jeanzzz]
+[31Aug2025 07:13:35.563] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 07:13:35.563] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[31Aug2025 07:13:35.563] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[31Aug2025 07:13:41.248] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 07:15:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ has made the advancement [What a Deal!]
+[31Aug2025 07:15:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esnxpi_> dónde estás yerbamuel
+[31Aug2025 07:16:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Spectator Mode]
+[31Aug2025 07:16:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Teleported jeanzzz to Teniente_Rada]
+[31Aug2025 07:16:26.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 07:16:26.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 07:16:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeanzzz: Set own game mode to Survival Mode]

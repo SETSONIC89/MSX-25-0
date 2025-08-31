@@ -2800,5 +2800,17 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-08-31 07:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-31 07:15:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
