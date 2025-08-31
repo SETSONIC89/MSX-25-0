@@ -2973,6 +2973,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-08-31 06:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-31 03:28:30 +0000"

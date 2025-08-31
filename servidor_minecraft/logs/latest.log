@@ -647,3 +647,16 @@
 [31Aug2025 06:41:03.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: esnxpi_[/127.68.144.139:46601] logged in with entity id 313154 at (2563.699999988079, 79.0625, -1602.012153607934)
 [31Aug2025 06:41:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esnxpi_ joined the game
 [31Aug2025 06:46:37.048] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[31Aug2025 06:49:44.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Breaking the Seal]
+[31Aug2025 06:50:20.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has made the advancement [Who is Cutting Onions?]
+[31Aug2025 06:50:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has made the advancement [Who is Cutting Onions?]
+[31Aug2025 06:50:45.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DripX_ moved wrongly!
+[31Aug2025 06:51:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTERROR99 was slain by Chaos Spawner
+[31Aug2025 06:51:08.680] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2253, -54, 2318) minecraft:overworld
+[31Aug2025 06:51:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DripX_ has reached the goal [Chaos Spawner]
+[31Aug2025 06:51:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanzzz has reached the goal [Chaos Spawner]
+[31Aug2025 06:51:36.590] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31Aug2025 06:52:46.197] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[31Aug2025 06:52:46.197] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[31Aug2025 06:54:54.702] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[31Aug2025 06:56:17.806] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler

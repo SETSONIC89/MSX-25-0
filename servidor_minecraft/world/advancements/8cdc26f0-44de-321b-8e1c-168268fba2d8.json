@@ -3199,9 +3199,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-31 06:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-08-31 05:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-31 06:50:24 +0000"
     },
     "done": true
   },
@@ -3235,15 +3247,46 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-31 06:50:29 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-08-31 06:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-31 05:46:05 +0000"
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-08-31 06:51:26 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-08-31 06:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-31 05:32:19 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-08-31 06:48:52 +0000",
+      "has_the_recipe": "2025-08-31 06:48:52 +0000"
     },
     "done": true
   },
@@ -3271,6 +3314,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-08-31 06:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-31 05:55:33 +0000"
@@ -3280,6 +3329,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-08-31 05:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-31 06:50:24 +0000"
     },
     "done": true
   },
@@ -3343,6 +3398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-31 06:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-31 06:02:42 +0000"
@@ -3358,6 +3419,18 @@
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-08-31 06:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-31 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-08-31 06:51:26 +0000"
     },
     "done": true
   },
@@ -3382,6 +3455,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-08-31 05:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-31 06:53:50 +0000"
     },
     "done": true
   },
